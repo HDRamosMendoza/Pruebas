@@ -1,0 +1,129 @@
+.widget-proyectos h3 {
+  font-size: 1.2em;
+}
+.widget-proyectos h3, p {
+  margin-top: 0;
+}
+
+/* add additional custom styles */
+
+.widget-proyectos a:link,
+.widget-proyectos a:visited,
+.widget-proyectos a:active {
+    text-decoration:none;
+}
+
+.widget-proyectos .tab-content {
+	padding-top: 13px !important;
+	padding-bottom: 5px!important;
+}
+
+.widget-proyectos .field-margin-bottom {
+	margin-bottom: 5px !important;
+}
+
+.widget-proyectos table tbody tr td input[type="checkbox"] {
+	position: relative;
+	bottom: -2px;
+}
+
+.widget-proyectos td {
+	padding: 1px 2px 0 0 !important;
+	cursor: pointer !important;
+}
+
+.widget-proyectos td input:hover,
+.widget-proyectos td label:hover{
+	cursor: pointer !important;
+}
+
+.widget-proyectos .column-left {
+  padding-left: 2px !important;
+}
+
+.widget-proyectos .column-right,
+.widget-proyectos .column-left {
+	padding-bottom: 3px !important;
+}
+
+.widget-proyectos .columns-margin-bottom {
+	margin-bottom: 6px !important; 
+}
+
+.widget-proyectos .column-padding {
+	padding-top: 0;
+	padding-bottom: 5px;
+}
+
+.widget-proyectos .column-padding-center {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.widget-proyectos .dropdown-content-limite {
+	height: 160px;
+	max-height: 170px;
+}
+
+.widget-proyectos .dropdown-content-result {
+	height: 142px !important;
+	max-height: 160px !important;
+	margin-bottom: 5px;
+}
+
+.widget-proyectos .dropdown-content {
+	padding-bottom: 0;
+	padding-top: 0;
+}
+
+.widget-proyectos .dropdown-content-limite,
+.widget-proyectos .dropdown-content-result {
+	margin-top: 4px;
+	overflow-y: scroll;
+}
+
+.widget-proyectos #tabs-with-content .tabs:not(:last-child) {
+	margin-bottom: 0;
+}
+
+.widget-proyectos #tabs-with-content label {
+	margin-bottom: 0;
+}
+
+.widget-proyectos #tabs-with-content .tab-content {
+	padding: 1rem 0;
+	display: none;
+}
+
+.widget-proyectos #tabs-with-content .tab-content.is-active {
+  	display: block;
+}
+
+/* Limite politico */
+.widget-proyectos dropdown-content ul {
+	display: block;
+  	margin-block-start: 1em;
+  	margin-block-end: 1em;
+  	margin-inline-start: 0px;
+  	margin-inline-end: 0px;
+  	padding-inline-start: 40px;
+  	list-style-type: disc;
+}
+
+.widget-proyectos ul.list-group {
+  	padding: 0;
+  	margin: 0;
+}
+
+.widget-proyectos li.list-group-item {
+  	background-color: #FFFFFF;
+  	border-bottom: 1px solid #DDDDDD !important;
+  	display: block;
+  	position: relative;
+  	padding: 4px 8px;
+  	font-size: 10px !important;
+}
+
+.widget-proyectos li.list-group-item {
+	cursor: pointer;
+}

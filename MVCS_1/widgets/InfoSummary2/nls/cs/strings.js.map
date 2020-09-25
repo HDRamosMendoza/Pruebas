@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/InfoSummary/nls/cs/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,mBADX;AAEL,WAAS,oBAFJ;AAGL,cAAY;AAHP,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Shrnutí informací\",\r\n  \"title\": \"Widget InfoSummary\",\r\n  \"helpText\": \"Text nápovědy shrnutí informací\"\r\n});"]}
