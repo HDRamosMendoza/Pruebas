@@ -1,0 +1,78 @@
+<div>
+  
+  <div class="panelContent" data-dojo-attach-point="panelMain">
+
+    <div class="esriCTDirectionInfoPanel" style="display: block; left: 0px;">
+      <div class="jimu-tab" style="height: 250px !important;">
+        
+        <div class="tabs control" style="display:block">
+          <div class="tab jimu-vcenter-text" style="width: 50%">
+            Ámbito
+          </div>
+          <div class="tab jimu-vcenter-text jimu-state-selected" style="width: 50%">
+            Lugar
+          </div>
+        </div>
+
+        <div class="jimu-container jimu-viewstack">
+
+          <div class="tab-content dijitContentPane view">
+            <div class="acordeon">
+
+              <!-- Departamento -->
+              <div class="acordeon__item">
+                <input type="radio" name="acordeon" id="Departamentos">
+                <label for="Departamentos" class="acordeon__titulo">Departamentos</label>
+                <div class="acordeon__contenido">..........</div>
+              </div>
+              <!-- /Departamento -->
+
+              <!-- Provincias -->
+              <div class="acordeon__item">
+                <input type="radio" name="acordeon" id="Provincias">
+                <label for="Provincias" class="acordeon__titulo">Provincias</label>
+                <div class="acordeon__contenido">..........</div>
+              </div>
+              <!-- /Provincias -->
+
+              <!-- Distritos -->
+              <div class="acordeon__item">
+                <input type="radio" name="acordeon" id="Distritos">
+                <label for="Distritos" class="acordeon__titulo">Distritos</label>
+                <div class="acordeon__contenido">..........</div>
+              </div>
+              <!-- /Distritos -->
+
+            </div>
+          </div>
+
+          <div class="tab-content dijitContentPane view">
+            <select 
+              data-dojo-attach-point="CboDepartamento"data-dojo-attach-event="change: _onClickDepartamento">
+              <option> - Cargando - </option>
+            </select>
+
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+
+    <div class="page" data-dojo-attach-point="panelPage">
+      <div class="pageContent rounded" data-dojo-attach-point="pageContent">
+        <div class="pageHeader pageHeader-border roundedTop jimu-main-background dart-bgcolor box-bgcolor" data-dojo-attach-point="pageHeader">
+          <div class="pageCounter">
+            <div data-dojo-attach-point="panelMainIcon" />
+          </div>
+        </div>
+        <div class="pageTitle" data-dojo-attach-point="pageTitle"></div>
+        <div class="lastUpdated" data-dojo-attach-point="lastUpdated"></div>
+        <div class="pageClose" data-dojo-attach-point="pageCloseMain" data-dojo-attach-event="onclick:_close"></div>
+      </div>
+      <div class="pageBody roundedBottom" data-dojo-attach-point="pageBody">
+        <div class="resultsContent noselect" data-dojo-attach-point="pageMain"></div>
+      </div>
+    </div>
+  </div>
+</div>

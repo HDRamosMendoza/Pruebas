@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/InfoSummary/nls/zh-cn/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,MADX;AAEL,WAAS,QAFJ;AAGL,cAAY;AAHP,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"信息汇总\",\r\n  \"title\": \"信息汇总微件\",\r\n  \"helpText\": \"信息汇总帮助文本\"\r\n});"]}

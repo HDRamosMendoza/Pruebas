@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/InfoSummary/nls/et/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,gBADX;AAEL,WAAS,uBAFJ;AAGL,cAAY;AAHP,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Info kokkuvõte\",\r\n  \"title\": \"Info kokkuvõtte vidin\",\r\n  \"helpText\": \"Info kokkuvõtte spikritekst\"\r\n});"]}
