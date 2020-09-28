@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../../widgets/InfoSummary/nls/zh-tw/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,MADX;AAEL,WAAS,oBAFJ;AAGL,cAAY;AAHP,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"資訊摘要\",\r\n  \"title\": \"InfoSummary Widget\",\r\n  \"helpText\": \"InfoSummary 說明文字\"\r\n});"]}

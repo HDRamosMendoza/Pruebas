@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../../widgets/InfoSummary/nls/it/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,wBADX;AAEL,WAAS,oBAFJ;AAGL,cAAY;AAHP,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Riepilogo informazioni\",\r\n  \"title\": \"Widget InfoSummary\",\r\n  \"helpText\": \"Testo guida InfoSummary\"\r\n});"]}

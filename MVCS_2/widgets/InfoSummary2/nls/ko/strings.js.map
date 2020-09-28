@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../../widgets/InfoSummary/nls/ko/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,OADX;AAEL,WAAS,UAFJ;AAGL,cAAY;AAHP,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"정보 요약\",\r\n  \"title\": \"정보 요약 위젯\",\r\n  \"helpText\": \"정보 요약 도움말 텍스트\"\r\n});"]}

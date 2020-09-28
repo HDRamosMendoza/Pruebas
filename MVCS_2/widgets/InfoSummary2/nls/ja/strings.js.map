@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../../widgets/InfoSummary/nls/ja/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,QADX;AAEL,WAAS,eAFJ;AAGL,cAAY;AAHP,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"情報サマリー\",\r\n  \"title\": \"情報サマリー ウィジェット\",\r\n  \"helpText\": \"情報サマリー ヘルプ テキスト\"\r\n});"]}

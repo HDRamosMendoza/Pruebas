@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../../widgets/InfoSummary/nls/ro/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,oBADX;AAEL,WAAS,sBAFJ;AAGL,cAAY;AAHP,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Rezumat informaţii\",\r\n  \"title\": \"Widgetul InfoSummary\",\r\n  \"helpText\": \"Text ajutor InfoSummary\"\r\n});"]}
