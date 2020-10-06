@@ -1,0 +1,326 @@
+<div>
+	<!--
+  	<h3>${nls.widgetTitle}</h3>
+  	<p>${nls.description}</p>
+  	<p>Service URL: ${config.serviceUrl}</p>
+  	-->
+	<div class="container">
+	    <div class="columns">
+	    	<!-- is-three-fifths column-right -->
+		  	<div class="column" style="padding: 5px 0 0 0;">
+		  		<div id="tabs-with-content">
+		  			<label class="label is-size-7">
+		  				1. Busque el límite político de su interés.
+		  			</label>
+				  	
+				  	<div class="tabs is-size-7">
+				    	<ul>
+				    		<!-- TAB HEADER - Especifico -->
+				      		<li class="is-active">
+				      			<a>
+				      				<i class="fa fa-filter"></i>&nbsp;
+				      				Especifico
+				      			</a>
+				      		</li>
+				      		<!-- /TAB HEADER - Especifico -->
+
+				      		<!-- TAB HEADER -  General -->
+				      		<li>
+				      			<a>
+				      				<i class="fa fa-filter"></i>&nbsp;
+				      				General
+				      			</a>
+				      		</li>
+				      		<!-- /TAB HEADER - General -->
+				    	</ul>
+				  	</div>
+
+				  	<div>
+				  		<!-- TAB CONTENT - Especificaciones -->
+				    	<section class="tab-content is-size-7">
+				    		<div class="columns columns-margin-bottom">
+				    			<div class="column">
+
+
+				    				
+
+				    				<div class="field">
+									  	<label class="label is-size-7">Departamento</label>
+									  	<div class="control">
+									    	<div class="select is-small is-fullwidth is-loading">
+										      	<select 
+										      		data-dojo-attach-point="CboDepartamento"data-dojo-attach-event="change: _onClickDepartamento">
+										        	<option> - Cargando - </option>
+										      	</select>
+										    </div>
+									  	</div>
+									</div>
+
+									<div class="field">
+									  	<label class="label is-size-7">Provincia</label>
+									  	<div class="control">
+									    	<div class="select is-small is-fullwidth">
+										      	<select
+										      		data-dojo-attach-point="CboProvincia"data-dojo-attach-event="change: _onClickProvincia">
+										        	<option> - Cargando - </option>
+										      	</select>
+										    </div>
+									  	</div>
+									</div>
+
+									<div class="field">
+									  	<label class="label is-size-7">Distrito</label>
+									  	<div class="control">
+									    	<div class="select is-small is-fullwidth">
+										      	<select
+										      		data-dojo-attach-point="CboDistrito"data-dojo-attach-event="change: _onClickDistrito">
+										        	<option> - Cargando - </option>
+										      	</select>
+										    </div>
+									  	</div>
+									</div>
+
+				    			</div>
+				    		</div>
+				    		<!--
+				    		<div class="columns columns-margin-bottom">
+				    			
+		  						<div class="column column-padding">
+		  							<p class="has-text-centered">Departamento</p>
+
+		  						
+		  							<div class="dropdown-content dropdown-content-limite">
+		  								<ul class="list-group" 
+		  									data-dojo-attach-point="CboDepartamento">
+							             	<li class="list-group-item">
+							                	Cargando ...
+							              	</li>
+							            </ul>
+		  							</div>
+		  						
+
+		  						</div>
+		  						
+		  						<div class="column column-padding column-padding-center">
+		  							<p class="has-text-centered">Provincia</p>
+		  							<div class="dropdown-content dropdown-content-limite">
+		  								<ul class="list-group"
+              								data-dojo-attach-point="CboProvincia">
+              								<li class="list-group-item">
+							                	Cargando ...
+							              	</li>
+            							</ul>
+		  							</div>
+		  						</div>
+		  						
+		  						<div class="column column-padding">
+		  							<p class="has-text-centered">Distrito</p>
+		  							<div class="dropdown-content dropdown-content-limite">
+		  								<ul class="list-group"
+              								data-dojo-attach-point="CboDistrito">
+              								<li class="list-group-item">
+							                	Cargando ...
+							              	</li>
+            							</ul>
+		  							</div>
+		  						</div>
+		  						
+							</div>
+							-->
+
+							<!-- Zoom -->
+							<div class="field">
+							 	<input id="ID_ZoomEspecifico" type="checkbox"  class="switch is-rounded is-info is-small" data-dojo-attach-point="ID_ZoomEspecifico" checked="checked">
+							  	<label for="ID_ZoomEspecifico">
+							  		<i class='fa fa-map'></i>&nbsp;
+							  		Zoom al límite político
+							  	</label>
+							</div>
+							<!-- /Zoom -->
+
+				    	</section>
+				    	<!-- /TAB CONTENT - Especificaciones -->
+
+				    	<!-- TAB CONTENT - General -->
+				    	<section class="tab-content">
+				    		<!-- Button Buscar -->
+							<div class="field has-addons field-margin-bottom">
+								<div class="control is-expanded">
+								    <input class="input is-small" type="text" placeholder="Límite político" data-dojo-attach-point="ID_LimitePolitico"/>
+								</div>
+							  	<div class="control">
+							  		<a class="button is-info is-small" data-dojo-attach-event="click: _onClickBuscar">
+							    		<i class="fa fa-search"></i>&nbsp;
+							    	</a>
+							    	<a class="button is-small" data-dojo-attach-event="click: _onClickEliminar">
+							      		<i class="fa fa-trash"></i>&nbsp;
+							    	</a>
+							  	</div>
+							</div>
+							<!-- /Button Buscar -->
+
+							<!-- Limite político -->
+
+							<div class="limite-content" data-dojo-attach-point="ID_GeneralLimite">
+								<!--
+								<div class="limite">
+	      							<div class="field">
+										<label for="hola1" class="is-size-7">
+											<span class="has-text-weight-bold">Departamento :</span>
+											Lima
+										</label>&nbsp;
+										<input type="checkbox" class="is-pulled-right checkbox-input" id="hola1">&nbsp;
+									</div>
+									<div class="field">
+										<label for="hola2" class="is-size-7">
+											<span class="has-text-weight-bold">Provincia :</span>
+											Lima
+										</label>&nbsp;
+										<input type="checkbox" class="is-pulled-right checkbox-input" id="hola2">&nbsp;
+									</div>
+									<div class="field">
+										<label for="hola3" class="is-size-7">
+											<span class="has-text-weight-bold">Distrito : </span>
+											Lima
+										</label>&nbsp;
+										<input type="checkbox" class="is-pulled-right checkbox-input" id="hola3">&nbsp;
+									</div>
+									<hr class="hr" style="margin:0;">
+								</div>
+							-->
+							</div>
+							<!-- /Limite político -->
+							<!--
+							<div class="dropdown-content-result">
+
+								<table class="table is-fullwidth is-hoverable is-size-7 columns-margin-bottom">
+
+									<thead class="has-background-light">
+									    <tr>
+									      	<td class="has-text-centered">
+									      		<strong>Departamento</strong>
+									      	</td>
+									      	<td class="has-text-centered">
+									      		<strong>Provincia</strong>
+									      	</td>
+									      	<td class="has-text-centered">
+									      		<strong>Distrito</strong>
+									      	</td>
+									    </tr>
+									</thead>
+									
+									<tbody data-dojo-attach-point="ID_GeneralLimite">
+									</tbody>
+
+									<tfoot class="has-background-light">
+									    <tr>
+									      	<td class="has-text-centered">
+									      		<strong>Departamento</strong>
+									      	</td>
+									      	<td class="has-text-centered">
+									      		<strong>Provincia</strong>
+									      	</td>
+									      	<td class="has-text-centered">
+									      		<strong>Distrito</strong>
+									      	</td>
+									    </tr>
+								  	</tfoot>
+
+								</table>
+								
+							</div>
+							-->
+							
+
+							<!-- Zoom -->
+							<div class="field is-size-7">
+							  	<input id="ID_ZoomGeneral" type="checkbox" name="tupapisoyyo" class="switch is-rounded is-info is-small" data-dojo-attach-point="ID_ZoomGeneral" checked="checked">
+							  	<label for="ID_ZoomGeneral">
+							  		<i class='fa fa-map'></i>&nbsp;
+							  		Zoom al límite político
+							  	</label>
+
+							  	<label class="is-pulled-right">
+							  		Coincidencias &nbsp;
+							  		<span class="tag is-light" data-dojo-attach-point="ID_Coincidencia">0</span>
+							  	</label>
+							</div>
+							<!-- /Zoom -->
+				    		
+				    	</section>
+				    	<!-- /TAB CONTENT - General -->
+				  	</div>
+				</div>
+		  	</div>
+		  	<!--
+		  	<div class="column is-two-fifths column-left is-hidden">
+		  		<label class="label is-size-7">
+	  				2. Seleccione la(s) capa(s) de su interés.
+	  			</label>
+	  		
+	  			
+	  			-- Lista de capas --
+	  			<table class="table is-size-7">
+					<thead>
+					    <tr>
+					      <td>Lista de Capas</td>
+					    </tr>
+					</thead>
+					<tbody>
+					    <tr>
+					      <td>Capas 1</td>
+					    </tr>
+					    <tr>
+					      <td>Capas 2</td>
+					    </tr>
+					    <tr>
+					      <td>Capas 3</td>
+					    </tr>
+					    <tr>
+					      <td>Capas 4</td>
+					    </tr>
+					    <tr>
+					      <td>Capas 5</td>
+					    </tr>
+					    <tr>
+					      <td>Capas 6</td>
+					    </tr>
+					</tbody>
+				</table>
+				-- /Lista de capas --
+
+		  		<label class="label is-size-7 is-hidden">
+	  				3. Especificar acción.
+	  			</label>
+
+	  			-- Button GROUP --
+				<div class="columns is-centered is-size-7 is-hidden">
+
+					-- Button LIMPIAR --
+					<div class="column has-text-centered">
+					    <button class="button is-small" 
+					    data-dojo-attach-event="click: _onClickLimpiar" id="ID_Limpiar">
+					    	<i class="fa fa-eraser"></i>&nbsp;
+					     	Limpiar
+					    </button>
+					</div>
+					-- /Button LIMPIAR --
+
+					-- Button ANALIZAR --
+					<div class="column has-text-centered">
+					    <button class="button is-info is-small"  data-dojo-attach-event="click: _onClickAnalizar" id="ID_Analizar">
+					    	<i class="fa fa-flask"></i>&nbsp;
+					    	Analizar
+					    </button>
+					</div>
+					-- /Button ANALIZAR --
+
+				</div>
+				-- /Button GROUP --
+
+		  	</div>
+		  	-->
+		</div>
+	</div>
+	
+</div>

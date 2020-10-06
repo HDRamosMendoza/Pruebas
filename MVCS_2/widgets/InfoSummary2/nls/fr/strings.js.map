@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/InfoSummary/nls/fr/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,cADX;AAEL,WAAS,qBAFJ;AAGL,cAAY;AAHP,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Résumé infos\",\r\n  \"title\": \"Widget Résumé infos\",\r\n  \"helpText\": \"Texte d'aide Résumé infos\"\r\n});"]}
