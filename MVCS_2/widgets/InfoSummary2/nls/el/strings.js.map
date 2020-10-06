@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../../widgets/InfoSummary/nls/el/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,oBADX;AAEL,WAAS,oBAFJ;AAGL,cAAY;AAHP,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Σύνοψη πληροφοριών\",\r\n  \"title\": \"InfoSummary Widget\",\r\n  \"helpText\": \"Κείμενο βοήθειας InfoSummary\"\r\n});"]}
