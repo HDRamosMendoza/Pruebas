@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/InfoSummary/nls/ru/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,sBADX;AAEL,WAAS,oBAFJ;AAGL,cAAY;AAHP,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Суммирование по типу\",\r\n  \"title\": \"Виджет InfoSummary\",\r\n  \"helpText\": \"Текст справки InfoSummary\"\r\n});"]}

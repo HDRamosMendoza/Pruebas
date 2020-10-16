@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/InfoSummary/nls/tr/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,aADX;AAEL,WAAS,mBAFJ;AAGL,cAAY;AAHP,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Bilgi Özeti\",\r\n  \"title\": \"InfoSummary Aracı\",\r\n  \"helpText\": \"InfoSummary Yardım metni\"\r\n});"]}

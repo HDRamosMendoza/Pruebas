@@ -1,0 +1,243 @@
+.widget-consulta-proyecto h3 {
+  font-size: 1.2em;
+}
+.widget-consulta-proyecto h3, p {
+  margin-top: 0;
+}
+/* add additional custom styles */
+.widget-consulta-proyecto .jimu-tab .tabs .tab {
+  font-weight: bold !important;
+}
+
+.widget-consulta-proyecto .content-field {
+	margin-bottom: 8px;
+	width: 100% !important;
+}
+
+/* Centrar casilla de verificacion */
+.widget-consulta-proyecto .padre {
+  text-align: center;
+}
+.widget-consulta-proyecto .hijo {
+  padding-top: 3px;
+  display: inline-block !important;
+}
+
+/* checkBox */
+.widget-consulta-proyecto .content-field .container {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  margin-left: 10px;
+  font-size: 12px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.widget-consulta-proyecto .content-field .container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom checkbox */
+.widget-consulta-proyecto .content-field .checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 20px;
+  width: 20px;
+  background-color: #eee;
+}
+
+/* On mouse-over, add a grey background color */
+.widget-consulta-proyecto .content-field .container:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+/* When the checkbox is checked, add a blue background */
+.widget-consulta-proyecto .content-field .container input:checked ~ .checkmark {
+  background-color: #2196F3;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.widget-consulta-proyecto .content-field .checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+.widget-consulta-proyecto .content-field .container input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+.widget-consulta-proyecto .content-field .container .checkmark:after {
+  left: 7px;
+  top: 1px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+/* /CheckBox */
+.widget-consulta-proyecto .content-field .dijit {
+  width: 100%;
+}
+.widget-consulta-proyecto .content-field .layer_button,
+.widget-consulta-proyecto .content-field .layer_button_border {
+  margin-right: 0px;
+  width: 48% !important;
+}
+.widget-consulta-proyecto .layer_button {
+  background-color: #24b5cc;
+  border-color: #24b5cc;
+  color: #FFFFFF;  
+}
+.widget-consulta-proyecto .layer_button_border {
+  background-color: #FFFFFF;
+  border-color: #24b5cc;
+  color: #24b5cc;
+}
+.widget-consulta-proyecto .layer_button:hover {
+  background-color: #0090A7;
+  border-color: #0090A7;  
+  color: #FFFFFF;
+}
+.widget-consulta-proyecto .layer_button_border:hover {
+  background-color: #EEEEEE;;
+  border-color: #24b5cc;
+  color: #24b5cc;
+}
+
+.widget-consulta-proyecto .tab-content .field-0 {
+  float: right;
+}
+
+/* Tab */.widget-consulta-proyecto .tab-content.jimu-state-selected {
+  display: block;
+}
+
+.widget-consulta-proyecto .tab-content {
+  padding: 10px;
+  display: none;
+}
+
+.widget-consulta-proyecto .tab-content label {
+  font-weight: bold;
+}
+/* /Tab*/
+
+/* Lista */
+.widget-consulta-proyecto ul {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+  list-style-type: disc;
+}
+
+.widget-consulta-proyecto ul.list-group {
+  /*
+  height: ;
+  max-height: 90% !important; 
+  overflow-y: scroll;
+  */
+  padding: 0;
+  margin: 0;
+}
+/*
+overflow-y: scroll;
+*/
+
+.widget-consulta-proyecto li.list-group-item {
+  background-color: #FFFFFF;
+  border-bottom: 1px solid #DDDDDD !important;
+  display: block;
+  position: relative;
+  padding: 6px 0;
+  font-size: 10px !important;
+}
+
+.widget-consulta-proyecto li.list-group-item:hover {
+  cursor: pointer;
+  /*color: #86909C;*/
+  /*color: #86909C !important;*/
+  background-color: #EEEEEE !important;
+}
+/* /Lista */
+
+
+/* Animación de carga */
+
+.widget-consulta-proyecto .lds-ellipsis {
+  display: inline-block;
+  position: relative;
+  width: 80px;
+  height: 80px;
+  margin: auto;
+}
+.widget-consulta-proyecto .lds-ellipsis div {
+  position: absolute;
+  top: 33px;
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  background: #999999;
+  margin: auto;
+  animation-timing-function: cubic-bezier(0, 1, 1, 0);
+}
+.widget-consulta-proyecto .lds-ellipsis div:nth-child(1) {
+  left: 8px;
+  animation: lds-ellipsis1 0.6s infinite;
+}
+.widget-consulta-proyecto .lds-ellipsis div:nth-child(2) {
+  left: 8px;
+  animation: lds-ellipsis2 0.6s infinite;
+}
+.widget-consulta-proyecto .lds-ellipsis div:nth-child(3) {
+  left: 32px;
+  animation: lds-ellipsis2 0.6s infinite;
+}
+.widget-consulta-proyecto .lds-ellipsis div:nth-child(4) {
+  left: 56px;
+  animation: lds-ellipsis3 0.6s infinite;
+}
+@keyframes lds-ellipsis1 {
+  0% {
+    transform: scale(0);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+@keyframes lds-ellipsis3 {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(0);
+  }
+}
+@keyframes lds-ellipsis2 {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(24px, 0);
+  }
+}
+/* /Animación de carga */
