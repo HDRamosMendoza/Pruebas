@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/InfoSummary/nls/hr/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,qBADX;AAEL,WAAS,oBAFJ;AAGL,cAAY;AAHP,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Sažetak informacija\",\r\n  \"title\": \"Widget InfoSummary\",\r\n  \"helpText\": \"Tekst za pomoć sažetka informacija\"\r\n});"]}

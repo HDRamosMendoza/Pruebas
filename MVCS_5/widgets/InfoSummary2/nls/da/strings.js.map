@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/InfoSummary/nls/da/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,oBADX;AAEL,WAAS,oBAFJ;AAGL,cAAY;AAHP,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Oplysningsoversigt\",\r\n  \"title\": \"InfoSummary-widget\",\r\n  \"helpText\": \"InfoSummary-hjælpetekst\"\r\n});"]}

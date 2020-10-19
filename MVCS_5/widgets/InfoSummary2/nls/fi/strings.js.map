@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../widgets/InfoSummary/nls/fi/strings.js"],"names":["define"],"mappings":"AAAAA,OAAO;AACL,kBAAgB,qBADX;AAEL,WAAS,4BAFJ;AAGL,cAAY;AAHP,CAAP","file":"strings.js","sourcesContent":["define({\r\n  \"_widgetLabel\": \"Tietojen yhteenveto\",\r\n  \"title\": \"InfoSummary-pienoisohjelma\",\r\n  \"helpText\": \"InfoSummary-ohjeteksti\"\r\n});"]}
