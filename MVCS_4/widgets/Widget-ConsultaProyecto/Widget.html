@@ -1,0 +1,101 @@
+<div>
+	<div class="esriCTDirectionInfoPanel" >
+		<div class="jimu-tab">
+			<!-- TABS -->
+			<div class="tabs control" >
+				<div class="tab jimu-vcenter-text" 
+				style="width: 50%">Filtro
+				</div>
+				<div class="tab jimu-vcenter-text jimu-state-selected" 
+				style="width: 50%">Resultado
+				</div>
+			</div>
+			<!-- /TABS -->
+
+			<!-- TABS CONTENT -->
+			<div class="jimu-container jimu-viewstack">
+				<!-- FILTRO -->
+				<div class="tab-content dijitContentPane ">
+					<!-- Casilla de búsqueda -->
+					<section class="content-field padre" style="margin: auto !important;">
+						<!-- CUI/SNIP -->
+						<label class="container hijo">CUI / SNIP
+							<input type="checkbox" name="check" id="PROYECTOSNIP_ID" checked="checked" 
+								data-dojo-attach-event="click: _onClickCheckbox">
+							<span class="checkmark"></span>
+						</label>
+						<!-- /CUI/SNIP -->
+
+						<!-- NOMBRE -->
+						<label class="container hijo">NOMBRE
+							<input type="checkbox" name="check" id="PROYECTONOMBRE_ID" 
+								data-dojo-attach-event="click: _onClickCheckbox">
+							<span class="checkmark"></span>
+						</label>
+						<!-- /NOMBRE -->
+					</section>
+					<!-- /Casilla de búsqueda -->
+
+					<!-- Texto de búsqueda -->
+					<section class="content-field">
+						<div class="dijit dijitReset dijitInline dijitLeft 
+								dijitTextBox dijitValidationTextBox layer_input">
+							<div class="dijitReset dijitInputField dijitInputContainer">
+								<input class="dijitReset dijitInputInner" type="text" 
+									placeholder="Ingrese código SNIP del proyecto" 
+									data-dojo-attach-point="ID_ProyectoFiltro" value=""/>
+							</div>
+						</div>
+					</section>
+					<!-- /Texto de búsqueda -->
+					<!-- Acciones -->
+					<section class="content-field" style="height: 33px;">
+						<!-- Buscar -->
+						<div class="jimu-btn layer_button" 
+							data-dojo-attach-event="click: _onClickProyectoBuscar" 
+							style="float: right;">
+						<i class="fa fa-search"></i>&nbsp;Buscar
+						</div>
+						<!-- /Buscar -->
+
+						<!-- Limpiar -->
+						<div class="jimu-btn layer_button_border" 
+							data-dojo-attach-event="click: _onClickProyectoLimpiar">
+						<i class="fa fa-eraser"></i>&nbsp;Limpiar
+						</div>
+						<!-- /Limpiar -->
+					</section>
+					<!-- /Acciones -->
+					<hr>
+					<!-- Detalle -->
+					<section class="content-field" style="font-size: 9px; margin-bottom: 0;">
+						<p><strong>CUI</strong> - Código Unico Inversión / Código Unificado</p>
+						<p><strong>SNIP</strong> - Sistema Nacional de Inversión Pública</p>
+					</section>
+					<!-- /Detalle -->
+				</div>
+				<!-- /FILTRO -->
+
+				<!-- RESULTADO -->
+				<div class="tab-content dijitContentPane">
+					<!-- LISTA -->
+					<label>LISTA DE COINCIDENCIAS: <span data-dojo-attach-point="ID_ProyectoCounter"></span></label>
+					<hr>
+					<!-- Load CSS -->
+					<div class="lds-ellipsis" data-dojo-attach-point="ID_LoadProyecto">
+						<div></div>
+						<div></div>
+						<div></div>
+						<div></div>
+					</div>
+					<!-- /Load CSS -->
+					<ul class="list-group" data-dojo-attach-point="ID_ListProject">
+					</ul>
+					<!-- /LISTA -->
+				</div>
+				<!-- /RESULTADO -->
+			</div>
+			<!-- /TABS CONTENT -->
+		</div>
+	</div>
+</div>

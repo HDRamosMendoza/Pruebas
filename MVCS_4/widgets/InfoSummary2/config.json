@@ -1,0 +1,19 @@
+{
+    "mainPanelIcon": "",
+    "layerInfos": [],
+    "urlDepartamento":"https://dportalgis.vivienda.gob.pe/dfdserver/rest/services/OGEI/limites_peru/MapServer/6",
+    "urlProvincia":"https://dportalgis.vivienda.gob.pe/dfdserver/rest/services/OGEI/limites_peru/MapServer/8",
+    "urlDistrito":"https://dportalgis.vivienda.gob.pe/dfdserver/rest/services/OGEI/limites_peru/MapServer/7",
+    "leyendDepartamento": "#D10202",
+    "leyendDepartamentoLineBorder": "dash",
+    "leyendDepartamentoLineSize": 3,
+    "leyendDepartamentoBackground": [209,2,2,0],
+    "leyendProvincia": "#FF0202",
+    "leyendProvinciaLineBorder": "dash",
+    "leyendProvinciaLineSize": 3,
+    "leyendProvinciaBackground": [255,2,2,0],
+    "leyendDistrito": "#FFD133",
+    "leyendDistritoLineBorder": "dash",
+    "leyendDistritoLineSize": 3,
+    "leyendDistritoBackground": [255,249,51,0]
+}

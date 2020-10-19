@@ -1,0 +1,15 @@
+{
+  "serviceUrl": "https://sampleserver6.arcgisonline.com/arcgis/rest/services/USA/MapServer",
+  "idGroupLayer": "proyectos_decreto_visor_7498",
+  "listNameField": [
+    "codunico",
+    "codsnip",
+    "programa",
+    "departamento",
+    "provincia",
+    "distrito",
+    "ccpp",
+    "nomproyct"
+  ],
+  "colorRowSelected": "#abd6ff"
+}

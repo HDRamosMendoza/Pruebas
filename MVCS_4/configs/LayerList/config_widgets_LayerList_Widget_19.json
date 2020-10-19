@@ -1,0 +1,304 @@
+{
+  "showLegend": true,
+  "contextMenu": {
+    "ZoomTo": true,
+    "Transparency": true,
+    "EnableOrDisablePopup": true,
+    "MoveupOrMovedown": true,
+    "OpenAttributeTable": true,
+    "DescriptionOrShowItemDetailsOrDownload": true
+  },
+  "layerOptions": {
+    "VMCS_VISOR_DECRETO_DE_URGENCIA_5572": {
+      "display": true
+    },
+    "VMVU_VISOR_DECRETO_DE_URGENCIA_9093": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_0": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_1": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_2": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_3": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_4": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_5": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_6": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_7": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_8": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_9": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_10": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_11": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_12": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_13": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_14": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_15": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_16": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_17": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_18": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_19": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_20": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_21": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_22": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_23": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_24": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_25": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_26": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_27": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_28": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_29": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_30": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_31": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_32": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_33": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_34": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_35": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_36": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_37": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_38": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_39": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_40": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_41": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_42": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_43": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_44": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_45": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_46": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_47": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_48": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_49": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_50": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_51": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_52": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_53": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_54": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_55": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_56": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_57": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_58": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_59": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_60": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_61": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_62": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_63": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_64": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_65": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_66": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_67": {
+      "display": true
+    },
+    "proyectos_decreto_visor_7498_68": {
+      "display": true
+    },
+    "proyectos_decreto_urgencia_monitoreo_6886": {
+      "display": true
+    },
+    "proyectos_decreto_urgencia_monitoreo_6886_0": {
+      "display": true
+    },
+    "proyectos_decreto_prog_1522": {
+      "display": true
+    },
+    "proyectos_decreto_prog_1522_0": {
+      "display": true
+    },
+    "Componentes_Georeferenciados_DU_2926": {
+      "display": true
+    },
+    "Componentes_Georeferenciados_DU_2926_0": {
+      "display": true
+    },
+    "Componentes_Georeferenciados_DU_2926_1": {
+      "display": true
+    },
+    "Componentes_Georeferenciados_DU_2926_2": {
+      "display": true
+    },
+    "Componentes_Georeferenciados_DU_2926_3": {
+      "display": true
+    },
+    "Componentes_Georeferenciados_DU_2926_4": {
+      "display": true
+    },
+    "Componentes_Georeferenciados_DU_2926_5": {
+      "display": true
+    },
+    "Peligros_Naturales_minam_571": {
+      "display": true
+    },
+    "Peligros_Naturales_minam_571_0": {
+      "display": true
+    },
+    "Peligros_Naturales_minam_571_1": {
+      "display": true
+    },
+    "Peligros_Naturales_minam_571_2": {
+      "display": true
+    },
+    "limites_peru_7938": {
+      "display": true
+    },
+    "limites_peru_7938_0": {
+      "display": true
+    },
+    "limites_peru_7938_1": {
+      "display": true
+    },
+    "limites_peru_7938_2": {
+      "display": true
+    },
+    "limites_peru_7938_3": {
+      "display": true
+    },
+    "limites_peru_7938_4": {
+      "display": true
+    },
+    "limites_peru_7938_5": {
+      "display": true
+    },
+    "limites_peru_7938_6": {
+      "display": true
+    },
+    "limites_peru_7938_7": {
+      "display": true
+    },
+    "limites_peru_7938_8": {
+      "display": true
+    }
+  }
+}
