@@ -1,0 +1,5616 @@
+{
+  "mainPanelIcon": "",
+  "layerInfos": [
+    {
+      "layer": "VMCS_VISOR_DECRETO_DE_URGENCIA_5572",
+      "label": "VMCS",
+      "refresh": false,
+      "url": "https://dportalgis.vivienda.gob.pe/dfdserver/rest/services/OGEI/VMCS_VISOR_DECRETO_DE_URGENCIA/MapServer/0",
+      "id": "VMCS_VISOR_DECRETO_DE_URGENCIA_5572",
+      "symbolData": {
+        "symbolType": "LayerSymbol",
+        "symbol": {
+          "color": [
+            237,
+            81,
+            81,
+            255
+          ],
+          "size": 6,
+          "angle": 0,
+          "xoffset": 0,
+          "yoffset": 0,
+          "type": "esriSMS",
+          "style": "esriSMSCircle",
+          "outline": {
+            "color": [
+              153,
+              153,
+              153,
+              64
+            ],
+            "width": 0.75,
+            "type": "esriSLS",
+            "style": "esriSLSSolid"
+          }
+        },
+        "clusteringEnabled": false,
+        "_highLightColor": "#ffffff",
+        "icon": {
+          "color": [
+            237,
+            81,
+            81,
+            255
+          ],
+          "size": 6,
+          "angle": 0,
+          "xoffset": 0,
+          "yoffset": 0,
+          "type": "esriSMS",
+          "style": "esriSMSCircle",
+          "outline": {
+            "color": [
+              153,
+              153,
+              153,
+              64
+            ],
+            "width": 0.75,
+            "type": "esriSLS",
+            "style": "esriSLSSolid"
+          }
+        },
+        "iconType": "LayerIcon",
+        "renderer": {
+          "_cache": {
+            "rotationInfo": null,
+            "colorInfo": null,
+            "opacityInfo": null,
+            "uvInfo": {
+              "attributeInfo": {},
+              "isNumeric": false,
+              "idSource": null,
+              "id": null,
+              "hasExpr": false,
+              "compiledFunc": null,
+              "syntaxTree": null,
+              "isScaleDriven": false,
+              "dependsOnView": false,
+              "dependsOnGeometry": false,
+              "isJSFunc": false
+            }
+          },
+          "values": [
+            "PNSU",
+            "PNSR"
+          ],
+          "_symbols": {
+            "PNSU": {
+              "value": "PNSU",
+              "label": "PNSU",
+              "symbol": {
+                "style": "circle",
+                "color": {
+                  "r": 237,
+                  "g": 81,
+                  "b": 81
+                },
+                "size": 8,
+                "outline": {
+                  "width": 1,
+                  "color": {
+                    "r": 153,
+                    "g": 153,
+                    "b": 153,
+                    "a": 0.25098039215686274
+                  },
+                  "style": "solid"
+                }
+              }
+            },
+            "PNSR": {
+              "value": "PNSR",
+              "label": "PNSR",
+              "symbol": {
+                "style": "circle",
+                "color": {
+                  "r": 20,
+                  "g": 158,
+                  "b": 206
+                },
+                "size": 8,
+                "outline": {
+                  "width": 1,
+                  "color": {
+                    "r": 153,
+                    "g": 153,
+                    "b": 153,
+                    "a": 0.25098039215686274
+                  },
+                  "style": "solid"
+                }
+              }
+            }
+          },
+          "infos": [
+            {
+              "value": "PNSU",
+              "label": "PNSU",
+              "symbol": {
+                "style": "circle",
+                "color": {
+                  "r": 237,
+                  "g": 81,
+                  "b": 81
+                },
+                "size": 8,
+                "outline": {
+                  "width": 1,
+                  "color": {
+                    "r": 153,
+                    "g": 153,
+                    "b": 153,
+                    "a": 0.25098039215686274
+                  },
+                  "style": "solid",
+                  "_inherited": {
+                    "p": 2
+                  }
+                },
+                "_inherited": {
+                  "p": 2
+                }
+              }
+            },
+            {
+              "value": "PNSR",
+              "label": "PNSR",
+              "symbol": {
+                "style": "circle",
+                "color": {
+                  "r": 20,
+                  "g": 158,
+                  "b": 206
+                },
+                "size": 8,
+                "outline": {
+                  "width": 1,
+                  "color": {
+                    "r": 153,
+                    "g": 153,
+                    "b": 153,
+                    "a": 0.25098039215686274
+                  },
+                  "style": "solid"
+                }
+              }
+            }
+          ],
+          "attributeField": "programa",
+          "_multiple": false,
+          "_uvInfo": {},
+          "_hasNullKeyword": false,
+          "isMaxInclusive": true,
+          "_inherited": {
+            "p": 1
+          }
+        },
+        "s": "",
+        "svg": {},
+        "panelHTML": "<svg overflow=\"hidden\" width=\"44\" height=\"44\" style=\"touch-action: none;\"><defs></defs><circle fill=\"rgb(237, 81, 81)\" fill-opacity=\"1\" stroke=\"rgb(153, 153, 153)\" stroke-opacity=\"0.25098039215686274\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"4\" cx=\"0\" cy=\"0\" r=\"4\" fill-rule=\"evenodd\" stroke-dasharray=\"none\" dojoGfxStrokeStyle=\"solid\" transform=\"matrix(1.00000000,0.00000000,0.00000000,1.00000000,22.00000000,22.00000000)\"></circle></svg>",
+        "userDefinedSymbol": false,
+        "layerId": "VMCS_VISOR_DECRETO_DE_URGENCIA_5572",
+        "selectedId": "imageGFX_0",
+        "featureDisplayOptions": {
+          "groupEnabled": true,
+          "listDisabled": false,
+          "groupByRenderer": false,
+          "groupByField": true,
+          "fields": [
+            {
+              "name": "item"
+            },
+            {
+              "name": "idproyecto"
+            },
+            {
+              "name": "ambito"
+            }
+          ],
+          "groupField": {
+            "name": "programa",
+            "label": ""
+          },
+          "groupByRendererOptions": {
+            "fields": [
+              {
+                "name": "programa"
+              }
+            ],
+            "values": [
+              {
+                "value": " === 'PNSU'",
+                "label": "PNSU"
+              },
+              {
+                "value": " === 'PNSR'",
+                "label": "PNSR"
+              }
+            ]
+          }
+        }
+      },
+      "geometryType": "esriGeometryPoint",
+      "parentLayerID": "VMCS_VISOR_DECRETO_DE_URGENCIA_5572",
+      "renderer": {
+        "_cache": {
+          "rotationInfo": null,
+          "colorInfo": null,
+          "opacityInfo": null,
+          "uvInfo": {
+            "attributeInfo": {},
+            "isNumeric": false,
+            "idSource": null,
+            "id": null,
+            "hasExpr": false,
+            "compiledFunc": null,
+            "syntaxTree": null,
+            "isScaleDriven": false,
+            "dependsOnView": false,
+            "dependsOnGeometry": false,
+            "isJSFunc": false
+          }
+        },
+        "values": [
+          "PNSU",
+          "PNSR"
+        ],
+        "_symbols": {
+          "PNSU": {
+            "value": "PNSU",
+            "label": "PNSU",
+            "symbol": {
+              "style": "circle",
+              "color": {
+                "r": 237,
+                "g": 81,
+                "b": 81
+              },
+              "size": 8,
+              "outline": {
+                "width": 1,
+                "color": {
+                  "r": 153,
+                  "g": 153,
+                  "b": 153,
+                  "a": 0.25098039215686274
+                },
+                "style": "solid"
+              }
+            }
+          },
+          "PNSR": {
+            "value": "PNSR",
+            "label": "PNSR",
+            "symbol": {
+              "style": "circle",
+              "color": {
+                "r": 20,
+                "g": 158,
+                "b": 206
+              },
+              "size": 8,
+              "outline": {
+                "width": 1,
+                "color": {
+                  "r": 153,
+                  "g": 153,
+                  "b": 153,
+                  "a": 0.25098039215686274
+                },
+                "style": "solid"
+              }
+            }
+          }
+        },
+        "infos": [
+          {
+            "value": "PNSU",
+            "label": "PNSU",
+            "symbol": {
+              "style": "circle",
+              "color": {
+                "r": 237,
+                "g": 81,
+                "b": 81
+              },
+              "size": 8,
+              "outline": {
+                "width": 1,
+                "color": {
+                  "r": 153,
+                  "g": 153,
+                  "b": 153,
+                  "a": 0.25098039215686274
+                },
+                "style": "solid",
+                "_inherited": {
+                  "p": 2
+                }
+              },
+              "_inherited": {
+                "p": 2
+              }
+            }
+          },
+          {
+            "value": "PNSR",
+            "label": "PNSR",
+            "symbol": {
+              "style": "circle",
+              "color": {
+                "r": 20,
+                "g": 158,
+                "b": 206
+              },
+              "size": 8,
+              "outline": {
+                "width": 1,
+                "color": {
+                  "r": 153,
+                  "g": 153,
+                  "b": 153,
+                  "a": 0.25098039215686274
+                },
+                "style": "solid"
+              }
+            }
+          }
+        ],
+        "attributeField": "programa",
+        "_multiple": false,
+        "_uvInfo": {},
+        "_hasNullKeyword": false,
+        "isMaxInclusive": true,
+        "_inherited": {
+          "p": 1
+        }
+      },
+      "fields": [
+        {
+          "name": "objectid",
+          "type": "esriFieldTypeOID",
+          "alias": "OBJECTID"
+        },
+        {
+          "name": "item",
+          "type": "esriFieldTypeInteger",
+          "alias": "item"
+        },
+        {
+          "name": "idproyecto",
+          "type": "esriFieldTypeDouble",
+          "alias": "ID Proyecto"
+        },
+        {
+          "name": "ambito",
+          "type": "esriFieldTypeString",
+          "alias": "Ambito",
+          "length": 255
+        },
+        {
+          "name": "codsnip",
+          "type": "esriFieldTypeInteger",
+          "alias": "Codigo SNIP"
+        },
+        {
+          "name": "codunico",
+          "type": "esriFieldTypeInteger",
+          "alias": "Codigo Unico"
+        },
+        {
+          "name": "ubigeo",
+          "type": "esriFieldTypeString",
+          "alias": "Ubigeo",
+          "length": 255
+        },
+        {
+          "name": "ccppubigeo",
+          "type": "esriFieldTypeString",
+          "alias": "Ubigeo CCPP",
+          "length": 255
+        },
+        {
+          "name": "x",
+          "type": "esriFieldTypeDouble",
+          "alias": "x"
+        },
+        {
+          "name": "y",
+          "type": "esriFieldTypeDouble",
+          "alias": "y "
+        },
+        {
+          "name": "modfinanci",
+          "type": "esriFieldTypeString",
+          "alias": "Modalidad de Financiamiento",
+          "length": 255
+        },
+        {
+          "name": "programa",
+          "type": "esriFieldTypeString",
+          "alias": "Programa",
+          "length": 255
+        },
+        {
+          "name": "departamento",
+          "type": "esriFieldTypeString",
+          "alias": "Departamento",
+          "length": 255
+        },
+        {
+          "name": "provincia",
+          "type": "esriFieldTypeString",
+          "alias": "Provincia",
+          "length": 255
+        },
+        {
+          "name": "distrito",
+          "type": "esriFieldTypeString",
+          "alias": "Distrito",
+          "length": 255
+        },
+        {
+          "name": "ccpp",
+          "type": "esriFieldTypeString",
+          "alias": "Centro Poblado",
+          "length": 255
+        },
+        {
+          "name": "nomproyct",
+          "type": "esriFieldTypeString",
+          "alias": "Nombre Proyecto",
+          "length": 453
+        },
+        {
+          "name": "unieject",
+          "type": "esriFieldTypeString",
+          "alias": "Unidad Ejecutora",
+          "length": 255
+        },
+        {
+          "name": "unidad",
+          "type": "esriFieldTypeString",
+          "alias": "Unidad",
+          "length": 255
+        },
+        {
+          "name": "costoproyc",
+          "type": "esriFieldTypeDouble",
+          "alias": "Costo Proyecto S/."
+        },
+        {
+          "name": "proputransf",
+          "type": "esriFieldTypeDouble",
+          "alias": "Propuesta de Transferencia a 2020"
+        },
+        {
+          "name": "sost2021",
+          "type": "esriFieldTypeDouble",
+          "alias": "Sostenibilidad 2021"
+        },
+        {
+          "name": "empleabilidad",
+          "type": "esriFieldTypeInteger",
+          "alias": "Empleabilidad"
+        },
+        {
+          "name": "totinversion",
+          "type": "esriFieldTypeDouble",
+          "alias": "Total Inversion"
+        },
+        {
+          "name": "pobbenefi",
+          "type": "esriFieldTypeInteger",
+          "alias": "Poblacion Beneficiada"
+        },
+        {
+          "name": "nconxaguassp",
+          "type": "esriFieldTypeDouble",
+          "alias": "NroConexiones Nuevas Agua"
+        },
+        {
+          "name": "nconubsssp",
+          "type": "esriFieldTypeDouble",
+          "alias": "NroConexiones Nuevas UBS"
+        },
+        {
+          "name": "nconaguar",
+          "type": "esriFieldTypeDouble",
+          "alias": "Nro Conexiones Agua Rehabilitacion"
+        },
+        {
+          "name": "nconreahdes",
+          "type": "esriFieldTypeDouble",
+          "alias": "Nro Conexion Rehabilitacion Desague"
+        },
+        {
+          "name": "metaspav",
+          "type": "esriFieldTypeDouble",
+          "alias": "Metas Pavimento (Metros Lineales)"
+        },
+        {
+          "name": "metasvered",
+          "type": "esriFieldTypeDouble",
+          "alias": "Metas Vereda ( Metros Lineales)"
+        },
+        {
+          "name": "tipoproyc",
+          "type": "esriFieldTypeString",
+          "alias": "Tipo Proyecto",
+          "length": 255
+        },
+        {
+          "name": "dsaprob",
+          "type": "esriFieldTypeString",
+          "alias": "DS que aprobo el Financiamiento",
+          "length": 255
+        },
+        {
+          "name": "estadocarpeta",
+          "type": "esriFieldTypeString",
+          "alias": "Estado Carpeta",
+          "length": 255
+        },
+        {
+          "name": "substado",
+          "type": "esriFieldTypeString",
+          "alias": "Sub Estado",
+          "length": 255
+        },
+        {
+          "name": "avancef",
+          "type": "esriFieldTypeDouble",
+          "alias": "Avance Fisico"
+        },
+        {
+          "name": "codconvocatoria",
+          "type": "esriFieldTypeInteger",
+          "alias": "Codigo Convocatoria"
+        },
+        {
+          "name": "estseace",
+          "type": "esriFieldTypeString",
+          "alias": "Estado Sease",
+          "length": 255
+        },
+        {
+          "name": "tipoinver",
+          "type": "esriFieldTypeString",
+          "alias": "Tipo Inversion",
+          "length": 255
+        },
+        {
+          "name": "tipologia",
+          "type": "esriFieldTypeString",
+          "alias": "Tipologia",
+          "length": 255
+        },
+        {
+          "name": "programac",
+          "type": "esriFieldTypeDate",
+          "alias": "PROGRAMADO-Fecha publicación de convocatoria",
+          "length": 8
+        },
+        {
+          "name": "programafbp",
+          "type": "esriFieldTypeDate",
+          "alias": "PROGRAMADO-Fecha buena pro",
+          "length": 8
+        },
+        {
+          "name": "programafbc",
+          "type": "esriFieldTypeDate",
+          "alias": "PROGRAMADO-Fecha buena pro consentida",
+          "length": 8
+        },
+        {
+          "name": "programaffc",
+          "type": "esriFieldTypeDate",
+          "alias": "PROGRAMADO-Fecha firma de contrato",
+          "length": 8
+        },
+        {
+          "name": "programafet",
+          "type": "esriFieldTypeDate",
+          "alias": "PROGRAMADO-Fecha entrega de terreno",
+          "length": 8
+        },
+        {
+          "name": "programafi",
+          "type": "esriFieldTypeDate",
+          "alias": "PROGRAMADO-Fecha de inicio",
+          "length": 8
+        },
+        {
+          "name": "programafte",
+          "type": "esriFieldTypeDate",
+          "alias": "PROGRAMADO-Fecha Termino estimada",
+          "length": 8
+        },
+        {
+          "name": "fechpt",
+          "type": "esriFieldTypeDate",
+          "alias": "Fecha publicación de convocatoria",
+          "length": 8
+        },
+        {
+          "name": "fechapc",
+          "type": "esriFieldTypeDate",
+          "alias": "Fecha publicación de transferencia",
+          "length": 8
+        },
+        {
+          "name": "fechabp",
+          "type": "esriFieldTypeDate",
+          "alias": "Fecha buena pro",
+          "length": 8
+        },
+        {
+          "name": "fechabpc",
+          "type": "esriFieldTypeDate",
+          "alias": "Fecha buena pro consentida",
+          "length": 8
+        },
+        {
+          "name": "fechafdc",
+          "type": "esriFieldTypeDate",
+          "alias": "Fecha firma de contrato",
+          "length": 8
+        },
+        {
+          "name": "fechaedt",
+          "type": "esriFieldTypeDate",
+          "alias": "Fecha entrega de terreno",
+          "length": 8
+        },
+        {
+          "name": "fechai",
+          "type": "esriFieldTypeDate",
+          "alias": "Fecha de inicio",
+          "length": 8
+        },
+        {
+          "name": "fechap",
+          "type": "esriFieldTypeDate",
+          "alias": "Fecha de paralización",
+          "length": 8
+        },
+        {
+          "name": "fechar",
+          "type": "esriFieldTypeDate",
+          "alias": "Fecha de reinicio",
+          "length": 8
+        },
+        {
+          "name": "fechat",
+          "type": "esriFieldTypeDate",
+          "alias": "Fecha Termino Real",
+          "length": 8
+        },
+        {
+          "name": "fechar_1",
+          "type": "esriFieldTypeDate",
+          "alias": "Fecha de Recepción",
+          "length": 8
+        },
+        {
+          "name": "fechl",
+          "type": "esriFieldTypeDate",
+          "alias": "Fecha de liquidación",
+          "length": 8
+        },
+        {
+          "name": "pobbenefagua",
+          "type": "esriFieldTypeInteger",
+          "alias": "POBLACIÓN BENEFICIADA\n(Conexiones nuevas de agua x ratio)"
+        },
+        {
+          "name": "viceministerio",
+          "type": "esriFieldTypeString",
+          "alias": "Viceministerio",
+          "length": 255
+        },
+        {
+          "name": "num1",
+          "type": "esriFieldTypeDouble",
+          "alias": "num1"
+        },
+        {
+          "name": "num2",
+          "type": "esriFieldTypeDouble",
+          "alias": "num2"
+        },
+        {
+          "name": "num3",
+          "type": "esriFieldTypeDouble",
+          "alias": "num3"
+        },
+        {
+          "name": "text1",
+          "type": "esriFieldTypeString",
+          "alias": "text1",
+          "length": 255
+        },
+        {
+          "name": "text2",
+          "type": "esriFieldTypeString",
+          "alias": "text2",
+          "length": 255
+        },
+        {
+          "name": "shape",
+          "type": "esriFieldTypeGeometry",
+          "alias": "shape"
+        },
+        {
+          "name": "num4",
+          "type": "esriFieldTypeDouble",
+          "alias": "num4"
+        },
+        {
+          "name": "num5",
+          "type": "esriFieldTypeDouble",
+          "alias": "num5"
+        },
+        {
+          "name": "num6",
+          "type": "esriFieldTypeDouble",
+          "alias": "num6"
+        },
+        {
+          "name": "num7",
+          "type": "esriFieldTypeDouble",
+          "alias": "num7"
+        },
+        {
+          "name": "num8",
+          "type": "esriFieldTypeDouble",
+          "alias": "num8"
+        },
+        {
+          "name": "num9",
+          "type": "esriFieldTypeDouble",
+          "alias": "num9"
+        },
+        {
+          "name": "num10",
+          "type": "esriFieldTypeDouble",
+          "alias": "num10"
+        },
+        {
+          "name": "text3",
+          "type": "esriFieldTypeString",
+          "alias": "text3",
+          "length": 255
+        },
+        {
+          "name": "text4",
+          "type": "esriFieldTypeString",
+          "alias": "text4",
+          "length": 255
+        },
+        {
+          "name": "text5",
+          "type": "esriFieldTypeString",
+          "alias": "text5",
+          "length": 255
+        },
+        {
+          "name": "text6",
+          "type": "esriFieldTypeString",
+          "alias": "text6",
+          "length": 255
+        },
+        {
+          "name": "text7",
+          "type": "esriFieldTypeString",
+          "alias": "text7",
+          "length": 255
+        },
+        {
+          "name": "text8",
+          "type": "esriFieldTypeString",
+          "alias": "text8",
+          "length": 255
+        },
+        {
+          "name": "text9",
+          "type": "esriFieldTypeString",
+          "alias": "text9",
+          "length": 255
+        },
+        {
+          "name": "text10",
+          "type": "esriFieldTypeString",
+          "alias": "text10",
+          "length": 255
+        },
+        {
+          "name": "programaftep",
+          "type": "esriFieldTypeDate",
+          "alias": "Fecha de termino luego de paralizacion",
+          "length": 8
+        },
+        {
+          "name": "fechregisp",
+          "type": "esriFieldTypeDate",
+          "alias": "Registro de Participantes",
+          "length": 8
+        },
+        {
+          "name": "formulaobs",
+          "type": "esriFieldTypeDate",
+          "alias": "Formulacion de Consultas, Observaciones y Absoluciones",
+          "length": 8
+        },
+        {
+          "name": "integrabase",
+          "type": "esriFieldTypeDate",
+          "alias": "Integracion de Bases",
+          "length": 8
+        },
+        {
+          "name": "recepofer",
+          "type": "esriFieldTypeDate",
+          "alias": "Recepcion y Presentacion de Ofertas",
+          "length": 8
+        },
+        {
+          "name": "evaluofer",
+          "type": "esriFieldTypeDate",
+          "alias": "Evaluacion y Calificacion de Ofertas",
+          "length": 8
+        },
+        {
+          "name": "actosfirma",
+          "type": "esriFieldTypeDate",
+          "alias": "Actos Posteriores a la Firma del Contrato",
+          "length": 8
+        },
+        {
+          "name": "presendoc",
+          "type": "esriFieldTypeDate",
+          "alias": "Presentacion de Documentos para Firma de Contrato",
+          "length": 8
+        },
+        {
+          "name": "pim_20_lin_base",
+          "type": "esriFieldTypeDouble",
+          "alias": "PIM 2020 Linea Base ( DS 262)"
+        },
+        {
+          "name": "cert_anual_20",
+          "type": "esriFieldTypeDouble",
+          "alias": "Certificado Anual 2020"
+        },
+        {
+          "name": "compro_anual_20",
+          "type": "esriFieldTypeDouble",
+          "alias": "Compromiso Anual 2020"
+        },
+        {
+          "name": "avance_deven_cost",
+          "type": "esriFieldTypeDouble",
+          "alias": "Avance %  (Devengado/Costo)"
+        },
+        {
+          "name": "incorpor_porcent",
+          "type": "esriFieldTypeDouble",
+          "alias": "Incorporacion %"
+        },
+        {
+          "name": "pobla_benefici1",
+          "type": "esriFieldTypeDouble",
+          "alias": "Poblacion Beneficiada"
+        },
+        {
+          "name": "deven_acum",
+          "type": "esriFieldTypeDouble",
+          "alias": "Devengado Acumulado"
+        },
+        {
+          "name": "saldo_p_ejec",
+          "type": "esriFieldTypeDouble",
+          "alias": "Saldo por Ejecutar"
+        },
+        {
+          "name": "avance_respec_costo",
+          "type": "esriFieldTypeDouble",
+          "alias": "Avance respecto al costo total"
+        },
+        {
+          "name": "pim_2020_finan1",
+          "type": "esriFieldTypeDouble",
+          "alias": "PIM 2020 (Segun Fuente de Financiamiento)"
+        },
+        {
+          "name": "deven_2020_finan1",
+          "type": "esriFieldTypeDouble",
+          "alias": "Devengado 2020 (Segun Fuente de Financiamiento)"
+        },
+        {
+          "name": "incor_recur_finan1",
+          "type": "esriFieldTypeDouble",
+          "alias": "Incorporacion de Recursos segun Fuente Financiamiento"
+        },
+        {
+          "name": "monto_sostenibi",
+          "type": "esriFieldTypeDouble",
+          "alias": "Monto Sostenibilidad"
+        },
+        {
+          "name": "pim_2020_finan2",
+          "type": "esriFieldTypeDouble",
+          "alias": "PIM 2020 (Segun Fuente de Financiamiento) al 28.09.2020"
+        },
+        {
+          "name": "deven_2020_finan2",
+          "type": "esriFieldTypeDouble",
+          "alias": "Devengado 2020 (Segun Fuente de Financiamiento) al  28.09.2020"
+        },
+        {
+          "name": "incor_recur_finan2",
+          "type": "esriFieldTypeDouble",
+          "alias": "Incorporacion de Recursos segun Fuente Financiamiento al 28.09.2020"
+        },
+        {
+          "name": "puestos_trabaj_direc",
+          "type": "esriFieldTypeDouble",
+          "alias": "Puestos de Trabajo Generados de manera Directa"
+        },
+        {
+          "name": "puestos_trabaj_indi",
+          "type": "esriFieldTypeDouble",
+          "alias": "Puestos de Trabajo Generados de manera Indirecta"
+        },
+        {
+          "name": "empleos_gener_di",
+          "type": "esriFieldTypeDouble",
+          "alias": "Empleos Generados de Manera Directa e Indirecta"
+        },
+        {
+          "name": "pobla_benefici2",
+          "type": "esriFieldTypeDouble",
+          "alias": "Poblacion Beneficiaria"
+        },
+        {
+          "name": "plazo_ejec_dias",
+          "type": "esriFieldTypeDouble",
+          "alias": "Plazo Ejecucion (Dias)"
+        },
+        {
+          "name": "fech_liqui_est",
+          "type": "esriFieldTypeDate",
+          "alias": "Fecha de Liquidacion Estimada",
+          "length": 8
+        },
+        {
+          "name": "fech_reg_cierre",
+          "type": "esriFieldTypeDate",
+          "alias": "Fecha de Registro de Cierre de Inversion",
+          "length": 8
+        },
+        {
+          "name": "prog_fech_est_a",
+          "type": "esriFieldTypeDate",
+          "alias": "Programado Fecha Termino Estimada Ajustada",
+          "length": 8
+        }
+      ],
+      "oidFieldName": "objectid",
+      "subLayerId": 0,
+      "infoTemplate": {
+        "info": {
+          "title": "VMCS: {ambito}",
+          "fieldInfos": [
+            {
+              "fieldName": "objectid",
+              "label": "OBJECTID",
+              "tooltip": "",
+              "visible": false,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "item",
+              "label": "item",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 0,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "idproyecto",
+              "label": "ID Proyecto",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "ambito",
+              "label": "Ambito",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "codsnip",
+              "label": "Codigo SNIP",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 0,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "codunico",
+              "label": "Codigo Unico",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 0,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "ubigeo",
+              "label": "Ubigeo",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "ccppubigeo",
+              "label": "Ubigeo CCPP",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "x",
+              "label": "x",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "y",
+              "label": "y ",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "modfinanci",
+              "label": "Modalidad de Financiamiento",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "programa",
+              "label": "Programa",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "departamento",
+              "label": "Departamento",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "provincia",
+              "label": "Provincia",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "distrito",
+              "label": "Distrito",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "ccpp",
+              "label": "Centro Poblado",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "nomproyct",
+              "label": "Nombre Proyecto",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "unieject",
+              "label": "Unidad Ejecutora",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "unidad",
+              "label": "Unidad",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "costoproyc",
+              "label": "Costo Proyecto S/.",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "proputransf",
+              "label": "Propuesta de Transferencia a 2020",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "sost2021",
+              "label": "Sostenibilidad 2021",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "empleabilidad",
+              "label": "Empleabilidad",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 0,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "totinversion",
+              "label": "Total Inversion",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "pobbenefi",
+              "label": "Poblacion Beneficiada",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 0,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "nconxaguassp",
+              "label": "NroConexiones Nuevas Agua",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "nconubsssp",
+              "label": "NroConexiones Nuevas UBS",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "nconaguar",
+              "label": "Nro Conexiones Agua Rehabilitacion",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "nconreahdes",
+              "label": "Nro Conexion Rehabilitacion Desague",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "metaspav",
+              "label": "Metas Pavimento (Metros Lineales)",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "metasvered",
+              "label": "Metas Vereda ( Metros Lineales)",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "tipoproyc",
+              "label": "Tipo Proyecto",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "dsaprob",
+              "label": "DS que aprobo el Financiamiento",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "estadocarpeta",
+              "label": "Estado Carpeta",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "substado",
+              "label": "Sub Estado",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "avancef",
+              "label": "Avance Fisico",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "codconvocatoria",
+              "label": "Codigo Convocatoria",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 0,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "estseace",
+              "label": "Estado Sease",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "tipoinver",
+              "label": "Tipo Inversion",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "tipologia",
+              "label": "Tipologia",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "programac",
+              "label": "PROGRAMADO-Fecha publicación de convocatoria",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "programafbp",
+              "label": "PROGRAMADO-Fecha buena pro",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "programafbc",
+              "label": "PROGRAMADO-Fecha buena pro consentida",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "programaffc",
+              "label": "PROGRAMADO-Fecha firma de contrato",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "programafet",
+              "label": "PROGRAMADO-Fecha entrega de terreno",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "programafi",
+              "label": "PROGRAMADO-Fecha de inicio",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "programafte",
+              "label": "PROGRAMADO-Fecha Termino estimada",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "fechpt",
+              "label": "Fecha publicación de convocatoria",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "fechapc",
+              "label": "Fecha publicación de transferencia",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "fechabp",
+              "label": "Fecha buena pro",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "fechabpc",
+              "label": "Fecha buena pro consentida",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "fechafdc",
+              "label": "Fecha firma de contrato",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "fechaedt",
+              "label": "Fecha entrega de terreno",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "fechai",
+              "label": "Fecha de inicio",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "fechap",
+              "label": "Fecha de paralización",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "fechar",
+              "label": "Fecha de reinicio",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "fechat",
+              "label": "Fecha Termino Real",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "fechar_1",
+              "label": "Fecha de Recepción",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "fechl",
+              "label": "Fecha de liquidación",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "pobbenefagua",
+              "label": "POBLACIÓN BENEFICIADA\n(Conexiones nuevas de agua x ratio)",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 0,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "viceministerio",
+              "label": "Viceministerio",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "num1",
+              "label": "num1",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "num2",
+              "label": "num2",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "num3",
+              "label": "num3",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "text1",
+              "label": "text1",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "text2",
+              "label": "text2",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "shape",
+              "label": "shape",
+              "tooltip": "",
+              "visible": false,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "num4",
+              "label": "num4",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "num5",
+              "label": "num5",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "num6",
+              "label": "num6",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "num7",
+              "label": "num7",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "num8",
+              "label": "num8",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "num9",
+              "label": "num9",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "num10",
+              "label": "num10",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "text3",
+              "label": "text3",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "text4",
+              "label": "text4",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "text5",
+              "label": "text5",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "text6",
+              "label": "text6",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "text7",
+              "label": "text7",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "text8",
+              "label": "text8",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "text9",
+              "label": "text9",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "text10",
+              "label": "text10",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "programaftep",
+              "label": "Fecha de termino luego de paralizacion",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "fechregisp",
+              "label": "Registro de Participantes",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "formulaobs",
+              "label": "Formulacion de Consultas, Observaciones y Absoluciones",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "integrabase",
+              "label": "Integracion de Bases",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "recepofer",
+              "label": "Recepcion y Presentacion de Ofertas",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "evaluofer",
+              "label": "Evaluacion y Calificacion de Ofertas",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "actosfirma",
+              "label": "Actos Posteriores a la Firma del Contrato",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "presendoc",
+              "label": "Presentacion de Documentos para Firma de Contrato",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            }
+          ],
+          "description": null,
+          "showAttachments": true,
+          "mediaInfos": []
+        },
+        "_exprCache": {},
+        "_fieldLabels": {
+          "objectid": "OBJECTID",
+          "item": "item",
+          "idproyecto": "ID Proyecto",
+          "ambito": "Ambito",
+          "codsnip": "Codigo SNIP",
+          "codunico": "Codigo Unico",
+          "ubigeo": "Ubigeo",
+          "ccppubigeo": "Ubigeo CCPP",
+          "x": "x",
+          "y": "y ",
+          "modfinanci": "Modalidad de Financiamiento",
+          "programa": "Programa",
+          "departamento": "Departamento",
+          "provincia": "Provincia",
+          "distrito": "Distrito",
+          "ccpp": "Centro Poblado",
+          "nomproyct": "Nombre Proyecto",
+          "unieject": "Unidad Ejecutora",
+          "unidad": "Unidad",
+          "costoproyc": "Costo Proyecto S/.",
+          "proputransf": "Propuesta de Transferencia a 2020",
+          "sost2021": "Sostenibilidad 2021",
+          "empleabilidad": "Empleabilidad",
+          "totinversion": "Total Inversion",
+          "pobbenefi": "Poblacion Beneficiada",
+          "nconxaguassp": "NroConexiones Nuevas Agua",
+          "nconubsssp": "NroConexiones Nuevas UBS",
+          "nconaguar": "Nro Conexiones Agua Rehabilitacion",
+          "nconreahdes": "Nro Conexion Rehabilitacion Desague",
+          "metaspav": "Metas Pavimento (Metros Lineales)",
+          "metasvered": "Metas Vereda ( Metros Lineales)",
+          "tipoproyc": "Tipo Proyecto",
+          "dsaprob": "DS que aprobo el Financiamiento",
+          "estadocarpeta": "Estado Carpeta",
+          "substado": "Sub Estado",
+          "avancef": "Avance Fisico",
+          "codconvocatoria": "Codigo Convocatoria",
+          "estseace": "Estado Sease",
+          "tipoinver": "Tipo Inversion",
+          "tipologia": "Tipologia",
+          "programac": "PROGRAMADO-Fecha publicación de convocatoria",
+          "programafbp": "PROGRAMADO-Fecha buena pro",
+          "programafbc": "PROGRAMADO-Fecha buena pro consentida",
+          "programaffc": "PROGRAMADO-Fecha firma de contrato",
+          "programafet": "PROGRAMADO-Fecha entrega de terreno",
+          "programafi": "PROGRAMADO-Fecha de inicio",
+          "programafte": "PROGRAMADO-Fecha Termino estimada",
+          "fechpt": "Fecha publicación de convocatoria",
+          "fechapc": "Fecha publicación de transferencia",
+          "fechabp": "Fecha buena pro",
+          "fechabpc": "Fecha buena pro consentida",
+          "fechafdc": "Fecha firma de contrato",
+          "fechaedt": "Fecha entrega de terreno",
+          "fechai": "Fecha de inicio",
+          "fechap": "Fecha de paralización",
+          "fechar": "Fecha de reinicio",
+          "fechat": "Fecha Termino Real",
+          "fechar_1": "Fecha de Recepción",
+          "fechl": "Fecha de liquidación",
+          "pobbenefagua": "POBLACIÓN BENEFICIADA\n(Conexiones nuevas de agua x ratio)",
+          "viceministerio": "Viceministerio",
+          "num1": "num1",
+          "num2": "num2",
+          "num3": "num3",
+          "text1": "text1",
+          "text2": "text2",
+          "shape": "shape",
+          "num4": "num4",
+          "num5": "num5",
+          "num6": "num6",
+          "num7": "num7",
+          "num8": "num8",
+          "num9": "num9",
+          "num10": "num10",
+          "text3": "text3",
+          "text4": "text4",
+          "text5": "text5",
+          "text6": "text6",
+          "text7": "text7",
+          "text8": "text8",
+          "text9": "text9",
+          "text10": "text10",
+          "programaftep": "Fecha de termino luego de paralizacion",
+          "fechregisp": "Registro de Participantes",
+          "formulaobs": "Formulacion de Consultas, Observaciones y Absoluciones",
+          "integrabase": "Integracion de Bases",
+          "recepofer": "Recepcion y Presentacion de Ofertas",
+          "evaluofer": "Evaluacion y Calificacion de Ofertas",
+          "actosfirma": "Actos Posteriores a la Firma del Contrato",
+          "presendoc": "Presentacion de Documentos para Firma de Contrato"
+        },
+        "_fieldsMap": {
+          "objectid": {
+            "fieldName": "objectid",
+            "label": "OBJECTID",
+            "tooltip": "",
+            "visible": false,
+            "stringFieldOption": "textbox"
+          },
+          "item": {
+            "fieldName": "item",
+            "label": "item",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          },
+          "idproyecto": {
+            "fieldName": "idproyecto",
+            "label": "ID Proyecto",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "ambito": {
+            "fieldName": "ambito",
+            "label": "Ambito",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "codsnip": {
+            "fieldName": "codsnip",
+            "label": "Codigo SNIP",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          },
+          "codunico": {
+            "fieldName": "codunico",
+            "label": "Codigo Unico",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          },
+          "ubigeo": {
+            "fieldName": "ubigeo",
+            "label": "Ubigeo",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "ccppubigeo": {
+            "fieldName": "ccppubigeo",
+            "label": "Ubigeo CCPP",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "x": {
+            "fieldName": "x",
+            "label": "x",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "y": {
+            "fieldName": "y",
+            "label": "y ",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "modfinanci": {
+            "fieldName": "modfinanci",
+            "label": "Modalidad de Financiamiento",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "programa": {
+            "fieldName": "programa",
+            "label": "Programa",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "departamento": {
+            "fieldName": "departamento",
+            "label": "Departamento",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "provincia": {
+            "fieldName": "provincia",
+            "label": "Provincia",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "distrito": {
+            "fieldName": "distrito",
+            "label": "Distrito",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "ccpp": {
+            "fieldName": "ccpp",
+            "label": "Centro Poblado",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "nomproyct": {
+            "fieldName": "nomproyct",
+            "label": "Nombre Proyecto",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "unieject": {
+            "fieldName": "unieject",
+            "label": "Unidad Ejecutora",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "unidad": {
+            "fieldName": "unidad",
+            "label": "Unidad",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "costoproyc": {
+            "fieldName": "costoproyc",
+            "label": "Costo Proyecto S/.",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "proputransf": {
+            "fieldName": "proputransf",
+            "label": "Propuesta de Transferencia a 2020",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "sost2021": {
+            "fieldName": "sost2021",
+            "label": "Sostenibilidad 2021",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "empleabilidad": {
+            "fieldName": "empleabilidad",
+            "label": "Empleabilidad",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          },
+          "totinversion": {
+            "fieldName": "totinversion",
+            "label": "Total Inversion",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "pobbenefi": {
+            "fieldName": "pobbenefi",
+            "label": "Poblacion Beneficiada",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          },
+          "nconxaguassp": {
+            "fieldName": "nconxaguassp",
+            "label": "NroConexiones Nuevas Agua",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "nconubsssp": {
+            "fieldName": "nconubsssp",
+            "label": "NroConexiones Nuevas UBS",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "nconaguar": {
+            "fieldName": "nconaguar",
+            "label": "Nro Conexiones Agua Rehabilitacion",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "nconreahdes": {
+            "fieldName": "nconreahdes",
+            "label": "Nro Conexion Rehabilitacion Desague",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "metaspav": {
+            "fieldName": "metaspav",
+            "label": "Metas Pavimento (Metros Lineales)",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "metasvered": {
+            "fieldName": "metasvered",
+            "label": "Metas Vereda ( Metros Lineales)",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "tipoproyc": {
+            "fieldName": "tipoproyc",
+            "label": "Tipo Proyecto",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "dsaprob": {
+            "fieldName": "dsaprob",
+            "label": "DS que aprobo el Financiamiento",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "estadocarpeta": {
+            "fieldName": "estadocarpeta",
+            "label": "Estado Carpeta",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "substado": {
+            "fieldName": "substado",
+            "label": "Sub Estado",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "avancef": {
+            "fieldName": "avancef",
+            "label": "Avance Fisico",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "codconvocatoria": {
+            "fieldName": "codconvocatoria",
+            "label": "Codigo Convocatoria",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          },
+          "estseace": {
+            "fieldName": "estseace",
+            "label": "Estado Sease",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "tipoinver": {
+            "fieldName": "tipoinver",
+            "label": "Tipo Inversion",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "tipologia": {
+            "fieldName": "tipologia",
+            "label": "Tipologia",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "programac": {
+            "fieldName": "programac",
+            "label": "PROGRAMADO-Fecha publicación de convocatoria",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "programafbp": {
+            "fieldName": "programafbp",
+            "label": "PROGRAMADO-Fecha buena pro",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "programafbc": {
+            "fieldName": "programafbc",
+            "label": "PROGRAMADO-Fecha buena pro consentida",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "programaffc": {
+            "fieldName": "programaffc",
+            "label": "PROGRAMADO-Fecha firma de contrato",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "programafet": {
+            "fieldName": "programafet",
+            "label": "PROGRAMADO-Fecha entrega de terreno",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "programafi": {
+            "fieldName": "programafi",
+            "label": "PROGRAMADO-Fecha de inicio",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "programafte": {
+            "fieldName": "programafte",
+            "label": "PROGRAMADO-Fecha Termino estimada",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "fechpt": {
+            "fieldName": "fechpt",
+            "label": "Fecha publicación de convocatoria",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "fechapc": {
+            "fieldName": "fechapc",
+            "label": "Fecha publicación de transferencia",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "fechabp": {
+            "fieldName": "fechabp",
+            "label": "Fecha buena pro",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "fechabpc": {
+            "fieldName": "fechabpc",
+            "label": "Fecha buena pro consentida",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "fechafdc": {
+            "fieldName": "fechafdc",
+            "label": "Fecha firma de contrato",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "fechaedt": {
+            "fieldName": "fechaedt",
+            "label": "Fecha entrega de terreno",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "fechai": {
+            "fieldName": "fechai",
+            "label": "Fecha de inicio",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "fechap": {
+            "fieldName": "fechap",
+            "label": "Fecha de paralización",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "fechar": {
+            "fieldName": "fechar",
+            "label": "Fecha de reinicio",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "fechat": {
+            "fieldName": "fechat",
+            "label": "Fecha Termino Real",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "fechar_1": {
+            "fieldName": "fechar_1",
+            "label": "Fecha de Recepción",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "fechl": {
+            "fieldName": "fechl",
+            "label": "Fecha de liquidación",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "pobbenefagua": {
+            "fieldName": "pobbenefagua",
+            "label": "POBLACIÓN BENEFICIADA\n(Conexiones nuevas de agua x ratio)",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          },
+          "viceministerio": {
+            "fieldName": "viceministerio",
+            "label": "Viceministerio",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "num1": {
+            "fieldName": "num1",
+            "label": "num1",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "num2": {
+            "fieldName": "num2",
+            "label": "num2",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "num3": {
+            "fieldName": "num3",
+            "label": "num3",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "text1": {
+            "fieldName": "text1",
+            "label": "text1",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "text2": {
+            "fieldName": "text2",
+            "label": "text2",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "shape": {
+            "fieldName": "shape",
+            "label": "shape",
+            "tooltip": "",
+            "visible": false,
+            "stringFieldOption": "textbox"
+          },
+          "num4": {
+            "fieldName": "num4",
+            "label": "num4",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "num5": {
+            "fieldName": "num5",
+            "label": "num5",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "num6": {
+            "fieldName": "num6",
+            "label": "num6",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "num7": {
+            "fieldName": "num7",
+            "label": "num7",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "num8": {
+            "fieldName": "num8",
+            "label": "num8",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "num9": {
+            "fieldName": "num9",
+            "label": "num9",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "num10": {
+            "fieldName": "num10",
+            "label": "num10",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "text3": {
+            "fieldName": "text3",
+            "label": "text3",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "text4": {
+            "fieldName": "text4",
+            "label": "text4",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "text5": {
+            "fieldName": "text5",
+            "label": "text5",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "text6": {
+            "fieldName": "text6",
+            "label": "text6",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "text7": {
+            "fieldName": "text7",
+            "label": "text7",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "text8": {
+            "fieldName": "text8",
+            "label": "text8",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "text9": {
+            "fieldName": "text9",
+            "label": "text9",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "text10": {
+            "fieldName": "text10",
+            "label": "text10",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "programaftep": {
+            "fieldName": "programaftep",
+            "label": "Fecha de termino luego de paralizacion",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "fechregisp": {
+            "fieldName": "fechregisp",
+            "label": "Registro de Participantes",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "formulaobs": {
+            "fieldName": "formulaobs",
+            "label": "Formulacion de Consultas, Observaciones y Absoluciones",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "integrabase": {
+            "fieldName": "integrabase",
+            "label": "Integracion de Bases",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "recepofer": {
+            "fieldName": "recepofer",
+            "label": "Recepcion y Presentacion de Ofertas",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "evaluofer": {
+            "fieldName": "evaluofer",
+            "label": "Evaluacion y Calificacion de Ofertas",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "actosfirma": {
+            "fieldName": "actosfirma",
+            "label": "Actos Posteriores a la Firma del Contrato",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "presendoc": {
+            "fieldName": "presendoc",
+            "label": "Presentacion de Documentos para Firma de Contrato",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          }
+        },
+        "titleHasRelatedFields": false
+      },
+      "panelImageData": "<svg overflow=\"hidden\" width=\"44\" height=\"44\" style=\"touch-action: none;\"><defs></defs><circle fill=\"rgb(237, 81, 81)\" fill-opacity=\"1\" stroke=\"rgb(153, 153, 153)\" stroke-opacity=\"0.25098039215686274\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"4\" cx=\"0\" cy=\"0\" r=\"4\" fill-rule=\"evenodd\" stroke-dasharray=\"none\" dojoGfxStrokeStyle=\"solid\" transform=\"matrix(1.00000000,0.00000000,0.00000000,1.00000000,22.00000000,22.00000000)\"></circle></svg>",
+      "imageData": "<div class=\"imageDataGFX\"><svg overflow=\"hidden\" width=\"28\" height=\"28\" style=\"touch-action: none;\"><defs></defs><circle fill=\"rgb(237, 81, 81)\" fill-opacity=\"1\" stroke=\"rgb(153, 153, 153)\" stroke-opacity=\"0.25098039215686274\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"4\" cx=\"0\" cy=\"0\" r=\"4\" fill-rule=\"evenodd\" stroke-dasharray=\"none\" dojoGfxStrokeStyle=\"solid\" transform=\"matrix(1.00000000,0.00000000,0.00000000,1.00000000,14.00000000,14.00000000)\"></circle></svg></div>"
+    },
+    {
+      "layer": "VMVU_VISOR_DECRETO_DE_URGENCIA_9093",
+      "label": "VMVU",
+      "refresh": false,
+      "url": "https://dportalgis.vivienda.gob.pe/dfdserver/rest/services/OGEI/VMVU_VISOR_DECRETO_DE_URGENCIA/MapServer/0",
+      "id": "VMVU_VISOR_DECRETO_DE_URGENCIA_9093",
+      "symbolData": {
+        "symbolType": "LayerSymbol",
+        "symbol": {
+          "color": [
+            255,
+            0,
+            197,
+            255
+          ],
+          "size": 6,
+          "angle": 0,
+          "xoffset": 0,
+          "yoffset": 0,
+          "type": "esriSMS",
+          "style": "esriSMSCircle",
+          "outline": {
+            "color": [
+              153,
+              153,
+              153,
+              64
+            ],
+            "width": 0.75,
+            "type": "esriSLS",
+            "style": "esriSLSSolid"
+          }
+        },
+        "clusteringEnabled": false,
+        "_highLightColor": "#ffffff",
+        "icon": {
+          "color": [
+            255,
+            0,
+            197,
+            255
+          ],
+          "size": 6,
+          "angle": 0,
+          "xoffset": 0,
+          "yoffset": 0,
+          "type": "esriSMS",
+          "style": "esriSMSCircle",
+          "outline": {
+            "color": [
+              153,
+              153,
+              153,
+              64
+            ],
+            "width": 0.75,
+            "type": "esriSLS",
+            "style": "esriSLSSolid"
+          }
+        },
+        "iconType": "LayerIcon",
+        "renderer": {
+          "_cache": {
+            "rotationInfo": null,
+            "colorInfo": null,
+            "opacityInfo": null,
+            "uvInfo": {
+              "attributeInfo": {},
+              "isNumeric": false,
+              "idSource": null,
+              "id": null,
+              "hasExpr": false,
+              "compiledFunc": null,
+              "syntaxTree": null,
+              "isScaleDriven": false,
+              "dependsOnView": false,
+              "dependsOnGeometry": false,
+              "isJSFunc": false
+            }
+          },
+          "values": [
+            "PMIB",
+            "PNC"
+          ],
+          "_symbols": {
+            "PMIB": {
+              "value": "PMIB",
+              "symbol": {
+                "style": "circle",
+                "color": {
+                  "g": 0,
+                  "b": 197
+                },
+                "size": 8,
+                "outline": {
+                  "width": 1,
+                  "color": {
+                    "r": 153,
+                    "g": 153,
+                    "b": 153,
+                    "a": 0.25098039215686274
+                  },
+                  "style": "solid"
+                }
+              },
+              "label": "PMIB"
+            },
+            "PNC": {
+              "value": "PNC",
+              "symbol": {
+                "style": "circle",
+                "color": {
+                  "b": 0
+                },
+                "size": 8,
+                "outline": {
+                  "width": 1,
+                  "color": {
+                    "r": 153,
+                    "g": 153,
+                    "b": 153,
+                    "a": 0.25098039215686274
+                  },
+                  "style": "solid"
+                }
+              },
+              "label": "PNC"
+            }
+          },
+          "infos": [
+            {
+              "value": "PMIB",
+              "symbol": {
+                "style": "circle",
+                "color": {
+                  "g": 0,
+                  "b": 197
+                },
+                "size": 8,
+                "outline": {
+                  "width": 1,
+                  "color": {
+                    "r": 153,
+                    "g": 153,
+                    "b": 153,
+                    "a": 0.25098039215686274
+                  },
+                  "style": "solid",
+                  "_inherited": {
+                    "p": 2
+                  }
+                },
+                "_inherited": {
+                  "p": 2
+                }
+              },
+              "label": "PMIB"
+            },
+            {
+              "value": "PNC",
+              "symbol": {
+                "style": "circle",
+                "color": {
+                  "b": 0
+                },
+                "size": 8,
+                "outline": {
+                  "width": 1,
+                  "color": {
+                    "r": 153,
+                    "g": 153,
+                    "b": 153,
+                    "a": 0.25098039215686274
+                  },
+                  "style": "solid"
+                }
+              },
+              "label": "PNC"
+            }
+          ],
+          "attributeField": "programa",
+          "_multiple": false,
+          "_uvInfo": {},
+          "_hasNullKeyword": false,
+          "isMaxInclusive": true,
+          "_inherited": {
+            "p": 1
+          }
+        },
+        "s": "",
+        "svg": {},
+        "panelHTML": "<svg overflow=\"hidden\" width=\"44\" height=\"44\" style=\"touch-action: none;\"><defs></defs><circle fill=\"rgb(255, 0, 197)\" fill-opacity=\"1\" stroke=\"rgb(153, 153, 153)\" stroke-opacity=\"0.25098039215686274\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"4\" cx=\"0\" cy=\"0\" r=\"4\" fill-rule=\"evenodd\" stroke-dasharray=\"none\" dojoGfxStrokeStyle=\"solid\" transform=\"matrix(1.00000000,0.00000000,0.00000000,1.00000000,22.00000000,22.00000000)\"></circle></svg>",
+        "userDefinedSymbol": false,
+        "layerId": "VMVU_VISOR_DECRETO_DE_URGENCIA_9093",
+        "selectedId": "imageGFX_0",
+        "featureDisplayOptions": {
+          "groupEnabled": true,
+          "listDisabled": false,
+          "groupByRenderer": false,
+          "groupByField": true,
+          "fields": [
+            {
+              "name": "item"
+            },
+            {
+              "name": "idproyecto"
+            },
+            {
+              "name": "ambito"
+            }
+          ],
+          "groupField": {
+            "name": "programa",
+            "label": ""
+          },
+          "groupByRendererOptions": {
+            "fields": [
+              {
+                "name": "programa"
+              }
+            ],
+            "values": [
+              {
+                "value": " === 'PMIB'",
+                "label": "PMIB"
+              },
+              {
+                "value": " === 'PNC'",
+                "label": "PNC"
+              }
+            ]
+          }
+        }
+      },
+      "geometryType": "esriGeometryPoint",
+      "parentLayerID": "VMVU_VISOR_DECRETO_DE_URGENCIA_9093",
+      "renderer": {
+        "_cache": {
+          "rotationInfo": null,
+          "colorInfo": null,
+          "opacityInfo": null,
+          "uvInfo": {
+            "attributeInfo": {},
+            "isNumeric": false,
+            "idSource": null,
+            "id": null,
+            "hasExpr": false,
+            "compiledFunc": null,
+            "syntaxTree": null,
+            "isScaleDriven": false,
+            "dependsOnView": false,
+            "dependsOnGeometry": false,
+            "isJSFunc": false
+          }
+        },
+        "values": [
+          "PMIB",
+          "PNC"
+        ],
+        "_symbols": {
+          "PMIB": {
+            "value": "PMIB",
+            "symbol": {
+              "style": "circle",
+              "color": {
+                "g": 0,
+                "b": 197
+              },
+              "size": 8,
+              "outline": {
+                "width": 1,
+                "color": {
+                  "r": 153,
+                  "g": 153,
+                  "b": 153,
+                  "a": 0.25098039215686274
+                },
+                "style": "solid"
+              }
+            },
+            "label": "PMIB"
+          },
+          "PNC": {
+            "value": "PNC",
+            "symbol": {
+              "style": "circle",
+              "color": {
+                "b": 0
+              },
+              "size": 8,
+              "outline": {
+                "width": 1,
+                "color": {
+                  "r": 153,
+                  "g": 153,
+                  "b": 153,
+                  "a": 0.25098039215686274
+                },
+                "style": "solid"
+              }
+            },
+            "label": "PNC"
+          }
+        },
+        "infos": [
+          {
+            "value": "PMIB",
+            "symbol": {
+              "style": "circle",
+              "color": {
+                "g": 0,
+                "b": 197
+              },
+              "size": 8,
+              "outline": {
+                "width": 1,
+                "color": {
+                  "r": 153,
+                  "g": 153,
+                  "b": 153,
+                  "a": 0.25098039215686274
+                },
+                "style": "solid",
+                "_inherited": {
+                  "p": 2
+                }
+              },
+              "_inherited": {
+                "p": 2
+              }
+            },
+            "label": "PMIB"
+          },
+          {
+            "value": "PNC",
+            "symbol": {
+              "style": "circle",
+              "color": {
+                "b": 0
+              },
+              "size": 8,
+              "outline": {
+                "width": 1,
+                "color": {
+                  "r": 153,
+                  "g": 153,
+                  "b": 153,
+                  "a": 0.25098039215686274
+                },
+                "style": "solid"
+              }
+            },
+            "label": "PNC"
+          }
+        ],
+        "attributeField": "programa",
+        "_multiple": false,
+        "_uvInfo": {},
+        "_hasNullKeyword": false,
+        "isMaxInclusive": true,
+        "_inherited": {
+          "p": 1
+        }
+      },
+      "fields": [
+        {
+          "name": "objectid",
+          "type": "esriFieldTypeOID",
+          "alias": "OBJECTID"
+        },
+        {
+          "name": "item",
+          "type": "esriFieldTypeInteger",
+          "alias": "item"
+        },
+        {
+          "name": "idproyecto",
+          "type": "esriFieldTypeDouble",
+          "alias": "ID Proyecto"
+        },
+        {
+          "name": "ambito",
+          "type": "esriFieldTypeString",
+          "alias": "Ambito",
+          "length": 255
+        },
+        {
+          "name": "codsnip",
+          "type": "esriFieldTypeInteger",
+          "alias": "Codigo SNIP"
+        },
+        {
+          "name": "codunico",
+          "type": "esriFieldTypeInteger",
+          "alias": "Codigo Unico"
+        },
+        {
+          "name": "ubigeo",
+          "type": "esriFieldTypeString",
+          "alias": "Ubigeo",
+          "length": 255
+        },
+        {
+          "name": "ccppubigeo",
+          "type": "esriFieldTypeString",
+          "alias": "Ubigeo CCPP",
+          "length": 255
+        },
+        {
+          "name": "x",
+          "type": "esriFieldTypeDouble",
+          "alias": "x"
+        },
+        {
+          "name": "y",
+          "type": "esriFieldTypeDouble",
+          "alias": "y "
+        },
+        {
+          "name": "modfinanci",
+          "type": "esriFieldTypeString",
+          "alias": "Modalidad de Financiamiento",
+          "length": 255
+        },
+        {
+          "name": "programa",
+          "type": "esriFieldTypeString",
+          "alias": "Programa",
+          "length": 255
+        },
+        {
+          "name": "departamento",
+          "type": "esriFieldTypeString",
+          "alias": "Departamento",
+          "length": 255
+        },
+        {
+          "name": "provincia",
+          "type": "esriFieldTypeString",
+          "alias": "Provincia",
+          "length": 255
+        },
+        {
+          "name": "distrito",
+          "type": "esriFieldTypeString",
+          "alias": "Distrito",
+          "length": 255
+        },
+        {
+          "name": "ccpp",
+          "type": "esriFieldTypeString",
+          "alias": "Centro Poblado",
+          "length": 255
+        },
+        {
+          "name": "nomproyct",
+          "type": "esriFieldTypeString",
+          "alias": "Nombre Proyecto",
+          "length": 453
+        },
+        {
+          "name": "unieject",
+          "type": "esriFieldTypeString",
+          "alias": "Unidad Ejecutora",
+          "length": 255
+        },
+        {
+          "name": "unidad",
+          "type": "esriFieldTypeString",
+          "alias": "Unidad",
+          "length": 255
+        },
+        {
+          "name": "costoproyc",
+          "type": "esriFieldTypeDouble",
+          "alias": "Costo Proyecto S/."
+        },
+        {
+          "name": "proputransf",
+          "type": "esriFieldTypeDouble",
+          "alias": "Propuesta de Transferencia a 2020"
+        },
+        {
+          "name": "sost2021",
+          "type": "esriFieldTypeDouble",
+          "alias": "Sostenibilidad 2021"
+        },
+        {
+          "name": "empleabilidad",
+          "type": "esriFieldTypeInteger",
+          "alias": "Empleabilidad"
+        },
+        {
+          "name": "totinversion",
+          "type": "esriFieldTypeDouble",
+          "alias": "Total Inversion"
+        },
+        {
+          "name": "pobbenefi",
+          "type": "esriFieldTypeInteger",
+          "alias": "Poblacion Beneficiada"
+        },
+        {
+          "name": "nconxaguassp",
+          "type": "esriFieldTypeDouble",
+          "alias": "NroConexiones Nuevas Agua"
+        },
+        {
+          "name": "nconubsssp",
+          "type": "esriFieldTypeDouble",
+          "alias": "NroConexiones Nuevas UBS"
+        },
+        {
+          "name": "nconaguar",
+          "type": "esriFieldTypeDouble",
+          "alias": "Nro Conexiones Agua Rehabilitacion"
+        },
+        {
+          "name": "nconreahdes",
+          "type": "esriFieldTypeDouble",
+          "alias": "Nro Conexion Rehabilitacion Desague"
+        },
+        {
+          "name": "metaspav",
+          "type": "esriFieldTypeDouble",
+          "alias": "Metas Pavimento (Metros Lineales)"
+        },
+        {
+          "name": "metasvered",
+          "type": "esriFieldTypeDouble",
+          "alias": "Metas Vereda ( Metros Lineales)"
+        },
+        {
+          "name": "tipoproyc",
+          "type": "esriFieldTypeString",
+          "alias": "Tipo Proyecto",
+          "length": 255
+        },
+        {
+          "name": "dsaprob",
+          "type": "esriFieldTypeString",
+          "alias": "DS que aprobo el Financiamiento",
+          "length": 255
+        },
+        {
+          "name": "estadocarpeta",
+          "type": "esriFieldTypeString",
+          "alias": "Estado Carpeta",
+          "length": 255
+        },
+        {
+          "name": "substado",
+          "type": "esriFieldTypeString",
+          "alias": "Sub Estado",
+          "length": 255
+        },
+        {
+          "name": "avancef",
+          "type": "esriFieldTypeDouble",
+          "alias": "Avance Fisico"
+        },
+        {
+          "name": "codconvocatoria",
+          "type": "esriFieldTypeInteger",
+          "alias": "Codigo Convocatoria"
+        },
+        {
+          "name": "estseace",
+          "type": "esriFieldTypeString",
+          "alias": "Estado Sease",
+          "length": 255
+        },
+        {
+          "name": "tipoinver",
+          "type": "esriFieldTypeString",
+          "alias": "Tipo Inversion",
+          "length": 255
+        },
+        {
+          "name": "tipologia",
+          "type": "esriFieldTypeString",
+          "alias": "Tipologia",
+          "length": 255
+        },
+        {
+          "name": "programac",
+          "type": "esriFieldTypeDate",
+          "alias": "PROGRAMADO-Fecha publicación de convocatoria",
+          "length": 8
+        },
+        {
+          "name": "programafbp",
+          "type": "esriFieldTypeDate",
+          "alias": "PROGRAMADO-Fecha buena pro",
+          "length": 8
+        },
+        {
+          "name": "programafbc",
+          "type": "esriFieldTypeDate",
+          "alias": "PROGRAMADO-Fecha buena pro consentida",
+          "length": 8
+        },
+        {
+          "name": "programaffc",
+          "type": "esriFieldTypeDate",
+          "alias": "PROGRAMADO-Fecha firma de contrato",
+          "length": 8
+        },
+        {
+          "name": "programafet",
+          "type": "esriFieldTypeDate",
+          "alias": "PROGRAMADO-Fecha entrega de terreno",
+          "length": 8
+        },
+        {
+          "name": "programafi",
+          "type": "esriFieldTypeDate",
+          "alias": "PROGRAMADO-Fecha de inicio",
+          "length": 8
+        },
+        {
+          "name": "programafte",
+          "type": "esriFieldTypeDate",
+          "alias": "PROGRAMADO-Fecha Termino estimada",
+          "length": 8
+        },
+        {
+          "name": "fechpt",
+          "type": "esriFieldTypeDate",
+          "alias": "Fecha publicación de convocatoria",
+          "length": 8
+        },
+        {
+          "name": "fechapc",
+          "type": "esriFieldTypeDate",
+          "alias": "Fecha publicación de transferencia",
+          "length": 8
+        },
+        {
+          "name": "fechabp",
+          "type": "esriFieldTypeDate",
+          "alias": "Fecha buena pro",
+          "length": 8
+        },
+        {
+          "name": "fechabpc",
+          "type": "esriFieldTypeDate",
+          "alias": "Fecha buena pro consentida",
+          "length": 8
+        },
+        {
+          "name": "fechafdc",
+          "type": "esriFieldTypeDate",
+          "alias": "Fecha firma de contrato",
+          "length": 8
+        },
+        {
+          "name": "fechaedt",
+          "type": "esriFieldTypeDate",
+          "alias": "Fecha entrega de terreno",
+          "length": 8
+        },
+        {
+          "name": "fechai",
+          "type": "esriFieldTypeDate",
+          "alias": "Fecha de inicio",
+          "length": 8
+        },
+        {
+          "name": "fechap",
+          "type": "esriFieldTypeDate",
+          "alias": "Fecha de paralización",
+          "length": 8
+        },
+        {
+          "name": "fechar",
+          "type": "esriFieldTypeDate",
+          "alias": "Fecha de reinicio",
+          "length": 8
+        },
+        {
+          "name": "fechat",
+          "type": "esriFieldTypeDate",
+          "alias": "Fecha Termino Real",
+          "length": 8
+        },
+        {
+          "name": "fechar_1",
+          "type": "esriFieldTypeDate",
+          "alias": "Fecha de Recepción",
+          "length": 8
+        },
+        {
+          "name": "fechl",
+          "type": "esriFieldTypeDate",
+          "alias": "Fecha de liquidación",
+          "length": 8
+        },
+        {
+          "name": "pobbenefagua",
+          "type": "esriFieldTypeInteger",
+          "alias": "POBLACIÓN BENEFICIADA\n(Conexiones nuevas de agua x ratio)"
+        },
+        {
+          "name": "viceministerio",
+          "type": "esriFieldTypeString",
+          "alias": "Viceministerio",
+          "length": 255
+        },
+        {
+          "name": "num1",
+          "type": "esriFieldTypeDouble",
+          "alias": "num1"
+        },
+        {
+          "name": "num2",
+          "type": "esriFieldTypeDouble",
+          "alias": "num2"
+        },
+        {
+          "name": "num3",
+          "type": "esriFieldTypeDouble",
+          "alias": "num3"
+        },
+        {
+          "name": "text1",
+          "type": "esriFieldTypeString",
+          "alias": "text1",
+          "length": 255
+        },
+        {
+          "name": "text2",
+          "type": "esriFieldTypeString",
+          "alias": "text2",
+          "length": 255
+        },
+        {
+          "name": "shape",
+          "type": "esriFieldTypeGeometry",
+          "alias": "shape"
+        },
+        {
+          "name": "num4",
+          "type": "esriFieldTypeDouble",
+          "alias": "num4"
+        },
+        {
+          "name": "num5",
+          "type": "esriFieldTypeDouble",
+          "alias": "num5"
+        },
+        {
+          "name": "num6",
+          "type": "esriFieldTypeDouble",
+          "alias": "num6"
+        },
+        {
+          "name": "num7",
+          "type": "esriFieldTypeDouble",
+          "alias": "num7"
+        },
+        {
+          "name": "num8",
+          "type": "esriFieldTypeDouble",
+          "alias": "num8"
+        },
+        {
+          "name": "num9",
+          "type": "esriFieldTypeDouble",
+          "alias": "num9"
+        },
+        {
+          "name": "num10",
+          "type": "esriFieldTypeDouble",
+          "alias": "num10"
+        },
+        {
+          "name": "text3",
+          "type": "esriFieldTypeString",
+          "alias": "text3",
+          "length": 255
+        },
+        {
+          "name": "text4",
+          "type": "esriFieldTypeString",
+          "alias": "text4",
+          "length": 255
+        },
+        {
+          "name": "text5",
+          "type": "esriFieldTypeString",
+          "alias": "text5",
+          "length": 255
+        },
+        {
+          "name": "text6",
+          "type": "esriFieldTypeString",
+          "alias": "text6",
+          "length": 255
+        },
+        {
+          "name": "text7",
+          "type": "esriFieldTypeString",
+          "alias": "text7",
+          "length": 255
+        },
+        {
+          "name": "text8",
+          "type": "esriFieldTypeString",
+          "alias": "text8",
+          "length": 255
+        },
+        {
+          "name": "text9",
+          "type": "esriFieldTypeString",
+          "alias": "text9",
+          "length": 255
+        },
+        {
+          "name": "text10",
+          "type": "esriFieldTypeString",
+          "alias": "text10",
+          "length": 255
+        },
+        {
+          "name": "programaftep",
+          "type": "esriFieldTypeDate",
+          "alias": "Fecha de termino luego de paralizacion",
+          "length": 8
+        },
+        {
+          "name": "fechregisp",
+          "type": "esriFieldTypeDate",
+          "alias": "Registro de Participantes",
+          "length": 8
+        },
+        {
+          "name": "formulaobs",
+          "type": "esriFieldTypeDate",
+          "alias": "Formulacion de Consultas, Observaciones y Absoluciones",
+          "length": 8
+        },
+        {
+          "name": "integrabase",
+          "type": "esriFieldTypeDate",
+          "alias": "Integracion de Bases",
+          "length": 8
+        },
+        {
+          "name": "recepofer",
+          "type": "esriFieldTypeDate",
+          "alias": "Recepcion y Presentacion de Ofertas",
+          "length": 8
+        },
+        {
+          "name": "evaluofer",
+          "type": "esriFieldTypeDate",
+          "alias": "Evaluacion y Calificacion de Ofertas",
+          "length": 8
+        },
+        {
+          "name": "actosfirma",
+          "type": "esriFieldTypeDate",
+          "alias": "Actos Posteriores a la Firma del Contrato",
+          "length": 8
+        },
+        {
+          "name": "presendoc",
+          "type": "esriFieldTypeDate",
+          "alias": "Presentacion de Documentos para Firma de Contrato",
+          "length": 8
+        },
+        {
+          "name": "pim_20_lin_base",
+          "type": "esriFieldTypeDouble",
+          "alias": "PIM 2020 Linea Base ( DS 262)"
+        },
+        {
+          "name": "cert_anual_20",
+          "type": "esriFieldTypeDouble",
+          "alias": "Certificado Anual 2020"
+        },
+        {
+          "name": "compro_anual_20",
+          "type": "esriFieldTypeDouble",
+          "alias": "Compromiso Anual 2020"
+        },
+        {
+          "name": "avance_deven_cost",
+          "type": "esriFieldTypeDouble",
+          "alias": "Avance %  (Devengado/Costo)"
+        },
+        {
+          "name": "incorpor_porcent",
+          "type": "esriFieldTypeDouble",
+          "alias": "Incorporacion %"
+        },
+        {
+          "name": "pobla_benefici1",
+          "type": "esriFieldTypeDouble",
+          "alias": "Poblacion Beneficiada"
+        },
+        {
+          "name": "deven_acum",
+          "type": "esriFieldTypeDouble",
+          "alias": "Devengado Acumulado"
+        },
+        {
+          "name": "saldo_p_ejec",
+          "type": "esriFieldTypeDouble",
+          "alias": "Saldo por Ejecutar"
+        },
+        {
+          "name": "avance_respec_costo",
+          "type": "esriFieldTypeDouble",
+          "alias": "Avance respecto al costo total"
+        },
+        {
+          "name": "pim_2020_finan1",
+          "type": "esriFieldTypeDouble",
+          "alias": "PIM 2020 (Segun Fuente de Financiamiento)"
+        },
+        {
+          "name": "deven_2020_finan1",
+          "type": "esriFieldTypeDouble",
+          "alias": "Devengado 2020 (Segun Fuente de Financiamiento)"
+        },
+        {
+          "name": "incor_recur_finan1",
+          "type": "esriFieldTypeDouble",
+          "alias": "Incorporacion de Recursos segun Fuente Financiamiento"
+        },
+        {
+          "name": "monto_sostenibi",
+          "type": "esriFieldTypeDouble",
+          "alias": "Monto Sostenibilidad"
+        },
+        {
+          "name": "pim_2020_finan2",
+          "type": "esriFieldTypeDouble",
+          "alias": "PIM 2020 (Segun Fuente de Financiamiento) al 28.09.2020"
+        },
+        {
+          "name": "deven_2020_finan2",
+          "type": "esriFieldTypeDouble",
+          "alias": "Devengado 2020 (Segun Fuente de Financiamiento) al  28.09.2020"
+        },
+        {
+          "name": "incor_recur_finan2",
+          "type": "esriFieldTypeDouble",
+          "alias": "Incorporacion de Recursos segun Fuente Financiamiento al 28.09.2020"
+        },
+        {
+          "name": "puestos_trabaj_direc",
+          "type": "esriFieldTypeDouble",
+          "alias": "Puestos de Trabajo Generados de manera Directa"
+        },
+        {
+          "name": "puestos_trabaj_indi",
+          "type": "esriFieldTypeDouble",
+          "alias": "Puestos de Trabajo Generados de manera Indirecta"
+        },
+        {
+          "name": "empleos_gener_di",
+          "type": "esriFieldTypeDouble",
+          "alias": "Empleos Generados de Manera Directa e Indirecta"
+        },
+        {
+          "name": "pobla_benefici2",
+          "type": "esriFieldTypeDouble",
+          "alias": "Poblacion Beneficiaria"
+        },
+        {
+          "name": "plazo_ejec_dias",
+          "type": "esriFieldTypeDouble",
+          "alias": "Plazo Ejecucion (Dias)"
+        },
+        {
+          "name": "fech_liqui_est",
+          "type": "esriFieldTypeDate",
+          "alias": "Fecha de Liquidacion Estimada",
+          "length": 8
+        },
+        {
+          "name": "fech_reg_cierre",
+          "type": "esriFieldTypeDate",
+          "alias": "Fecha de Registro de Cierre de Inversion",
+          "length": 8
+        },
+        {
+          "name": "prog_fech_est_a",
+          "type": "esriFieldTypeDate",
+          "alias": "Programado Fecha Termino Estimada Ajustada",
+          "length": 8
+        }
+      ],
+      "oidFieldName": "objectid",
+      "subLayerId": 0,
+      "infoTemplate": {
+        "info": {
+          "title": "VMVU: {ambito}",
+          "fieldInfos": [
+            {
+              "fieldName": "objectid",
+              "label": "OBJECTID",
+              "tooltip": "",
+              "visible": false,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "item",
+              "label": "item",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 0,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "idproyecto",
+              "label": "ID Proyecto",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "ambito",
+              "label": "Ambito",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "codsnip",
+              "label": "Codigo SNIP",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 0,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "codunico",
+              "label": "Codigo Unico",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 0,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "ubigeo",
+              "label": "Ubigeo",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "ccppubigeo",
+              "label": "Ubigeo CCPP",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "x",
+              "label": "x",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "y",
+              "label": "y ",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "modfinanci",
+              "label": "Modalidad de Financiamiento",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "programa",
+              "label": "Programa",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "departamento",
+              "label": "Departamento",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "provincia",
+              "label": "Provincia",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "distrito",
+              "label": "Distrito",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "ccpp",
+              "label": "Centro Poblado",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "nomproyct",
+              "label": "Nombre Proyecto",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "unieject",
+              "label": "Unidad Ejecutora",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "unidad",
+              "label": "Unidad",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "costoproyc",
+              "label": "Costo Proyecto S/.",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "proputransf",
+              "label": "Propuesta de Transferencia a 2020",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "sost2021",
+              "label": "Sostenibilidad 2021",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "empleabilidad",
+              "label": "Empleabilidad",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 0,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "totinversion",
+              "label": "Total Inversion",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "pobbenefi",
+              "label": "Poblacion Beneficiada",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 0,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "nconxaguassp",
+              "label": "NroConexiones Nuevas Agua",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "nconubsssp",
+              "label": "NroConexiones Nuevas UBS",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "nconaguar",
+              "label": "Nro Conexiones Agua Rehabilitacion",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "nconreahdes",
+              "label": "Nro Conexion Rehabilitacion Desague",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "metaspav",
+              "label": "Metas Pavimento (Metros Lineales)",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "metasvered",
+              "label": "Metas Vereda ( Metros Lineales)",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "tipoproyc",
+              "label": "Tipo Proyecto",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "dsaprob",
+              "label": "DS que aprobo el Financiamiento",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "estadocarpeta",
+              "label": "Estado Carpeta",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "substado",
+              "label": "Sub Estado",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "avancef",
+              "label": "Avance Fisico",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "codconvocatoria",
+              "label": "Codigo Convocatoria",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 0,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "estseace",
+              "label": "Estado Sease",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "tipoinver",
+              "label": "Tipo Inversion",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "tipologia",
+              "label": "Tipologia",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "programac",
+              "label": "PROGRAMADO-Fecha publicación de convocatoria",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "programafbp",
+              "label": "PROGRAMADO-Fecha buena pro",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "programafbc",
+              "label": "PROGRAMADO-Fecha buena pro consentida",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "programaffc",
+              "label": "PROGRAMADO-Fecha firma de contrato",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "programafet",
+              "label": "PROGRAMADO-Fecha entrega de terreno",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "programafi",
+              "label": "PROGRAMADO-Fecha de inicio",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "programafte",
+              "label": "PROGRAMADO-Fecha Termino estimada",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "fechpt",
+              "label": "Fecha publicación de convocatoria",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "fechapc",
+              "label": "Fecha publicación de transferencia",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "fechabp",
+              "label": "Fecha buena pro",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "fechabpc",
+              "label": "Fecha buena pro consentida",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "fechafdc",
+              "label": "Fecha firma de contrato",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "fechaedt",
+              "label": "Fecha entrega de terreno",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "fechai",
+              "label": "Fecha de inicio",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "fechap",
+              "label": "Fecha de paralización",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "fechar",
+              "label": "Fecha de reinicio",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "fechat",
+              "label": "Fecha Termino Real",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "fechar_1",
+              "label": "Fecha de Recepción",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "fechl",
+              "label": "Fecha de liquidación",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "pobbenefagua",
+              "label": "POBLACIÓN BENEFICIADA\n(Conexiones nuevas de agua x ratio)",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 0,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "viceministerio",
+              "label": "Viceministerio",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "num1",
+              "label": "num1",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "num2",
+              "label": "num2",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "num3",
+              "label": "num3",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "text1",
+              "label": "text1",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "text2",
+              "label": "text2",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "shape",
+              "label": "shape",
+              "tooltip": "",
+              "visible": false,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "num4",
+              "label": "num4",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "num5",
+              "label": "num5",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "num6",
+              "label": "num6",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "num7",
+              "label": "num7",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "num8",
+              "label": "num8",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "num9",
+              "label": "num9",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "num10",
+              "label": "num10",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "places": 2,
+                "digitSeparator": true
+              }
+            },
+            {
+              "fieldName": "text3",
+              "label": "text3",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "text4",
+              "label": "text4",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "text5",
+              "label": "text5",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "text6",
+              "label": "text6",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "text7",
+              "label": "text7",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "text8",
+              "label": "text8",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "text9",
+              "label": "text9",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "text10",
+              "label": "text10",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox"
+            },
+            {
+              "fieldName": "programaftep",
+              "label": "Fecha de termino luego de paralizacion",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "fechregisp",
+              "label": "Registro de Participantes",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "formulaobs",
+              "label": "Formulacion de Consultas, Observaciones y Absoluciones",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "integrabase",
+              "label": "Integracion de Bases",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "recepofer",
+              "label": "Recepcion y Presentacion de Ofertas",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "evaluofer",
+              "label": "Evaluacion y Calificacion de Ofertas",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "actosfirma",
+              "label": "Actos Posteriores a la Firma del Contrato",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            },
+            {
+              "fieldName": "presendoc",
+              "label": "Presentacion de Documentos para Firma de Contrato",
+              "tooltip": "",
+              "visible": true,
+              "stringFieldOption": "textbox",
+              "format": {
+                "dateFormat": "shortDateShortTime"
+              }
+            }
+          ],
+          "description": null,
+          "showAttachments": true,
+          "mediaInfos": []
+        },
+        "_exprCache": {},
+        "_fieldLabels": {
+          "objectid": "OBJECTID",
+          "item": "item",
+          "idproyecto": "ID Proyecto",
+          "ambito": "Ambito",
+          "codsnip": "Codigo SNIP",
+          "codunico": "Codigo Unico",
+          "ubigeo": "Ubigeo",
+          "ccppubigeo": "Ubigeo CCPP",
+          "x": "x",
+          "y": "y ",
+          "modfinanci": "Modalidad de Financiamiento",
+          "programa": "Programa",
+          "departamento": "Departamento",
+          "provincia": "Provincia",
+          "distrito": "Distrito",
+          "ccpp": "Centro Poblado",
+          "nomproyct": "Nombre Proyecto",
+          "unieject": "Unidad Ejecutora",
+          "unidad": "Unidad",
+          "costoproyc": "Costo Proyecto S/.",
+          "proputransf": "Propuesta de Transferencia a 2020",
+          "sost2021": "Sostenibilidad 2021",
+          "empleabilidad": "Empleabilidad",
+          "totinversion": "Total Inversion",
+          "pobbenefi": "Poblacion Beneficiada",
+          "nconxaguassp": "NroConexiones Nuevas Agua",
+          "nconubsssp": "NroConexiones Nuevas UBS",
+          "nconaguar": "Nro Conexiones Agua Rehabilitacion",
+          "nconreahdes": "Nro Conexion Rehabilitacion Desague",
+          "metaspav": "Metas Pavimento (Metros Lineales)",
+          "metasvered": "Metas Vereda ( Metros Lineales)",
+          "tipoproyc": "Tipo Proyecto",
+          "dsaprob": "DS que aprobo el Financiamiento",
+          "estadocarpeta": "Estado Carpeta",
+          "substado": "Sub Estado",
+          "avancef": "Avance Fisico",
+          "codconvocatoria": "Codigo Convocatoria",
+          "estseace": "Estado Sease",
+          "tipoinver": "Tipo Inversion",
+          "tipologia": "Tipologia",
+          "programac": "PROGRAMADO-Fecha publicación de convocatoria",
+          "programafbp": "PROGRAMADO-Fecha buena pro",
+          "programafbc": "PROGRAMADO-Fecha buena pro consentida",
+          "programaffc": "PROGRAMADO-Fecha firma de contrato",
+          "programafet": "PROGRAMADO-Fecha entrega de terreno",
+          "programafi": "PROGRAMADO-Fecha de inicio",
+          "programafte": "PROGRAMADO-Fecha Termino estimada",
+          "fechpt": "Fecha publicación de convocatoria",
+          "fechapc": "Fecha publicación de transferencia",
+          "fechabp": "Fecha buena pro",
+          "fechabpc": "Fecha buena pro consentida",
+          "fechafdc": "Fecha firma de contrato",
+          "fechaedt": "Fecha entrega de terreno",
+          "fechai": "Fecha de inicio",
+          "fechap": "Fecha de paralización",
+          "fechar": "Fecha de reinicio",
+          "fechat": "Fecha Termino Real",
+          "fechar_1": "Fecha de Recepción",
+          "fechl": "Fecha de liquidación",
+          "pobbenefagua": "POBLACIÓN BENEFICIADA\n(Conexiones nuevas de agua x ratio)",
+          "viceministerio": "Viceministerio",
+          "num1": "num1",
+          "num2": "num2",
+          "num3": "num3",
+          "text1": "text1",
+          "text2": "text2",
+          "shape": "shape",
+          "num4": "num4",
+          "num5": "num5",
+          "num6": "num6",
+          "num7": "num7",
+          "num8": "num8",
+          "num9": "num9",
+          "num10": "num10",
+          "text3": "text3",
+          "text4": "text4",
+          "text5": "text5",
+          "text6": "text6",
+          "text7": "text7",
+          "text8": "text8",
+          "text9": "text9",
+          "text10": "text10",
+          "programaftep": "Fecha de termino luego de paralizacion",
+          "fechregisp": "Registro de Participantes",
+          "formulaobs": "Formulacion de Consultas, Observaciones y Absoluciones",
+          "integrabase": "Integracion de Bases",
+          "recepofer": "Recepcion y Presentacion de Ofertas",
+          "evaluofer": "Evaluacion y Calificacion de Ofertas",
+          "actosfirma": "Actos Posteriores a la Firma del Contrato",
+          "presendoc": "Presentacion de Documentos para Firma de Contrato"
+        },
+        "_fieldsMap": {
+          "objectid": {
+            "fieldName": "objectid",
+            "label": "OBJECTID",
+            "tooltip": "",
+            "visible": false,
+            "stringFieldOption": "textbox"
+          },
+          "item": {
+            "fieldName": "item",
+            "label": "item",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          },
+          "idproyecto": {
+            "fieldName": "idproyecto",
+            "label": "ID Proyecto",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "ambito": {
+            "fieldName": "ambito",
+            "label": "Ambito",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "codsnip": {
+            "fieldName": "codsnip",
+            "label": "Codigo SNIP",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          },
+          "codunico": {
+            "fieldName": "codunico",
+            "label": "Codigo Unico",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          },
+          "ubigeo": {
+            "fieldName": "ubigeo",
+            "label": "Ubigeo",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "ccppubigeo": {
+            "fieldName": "ccppubigeo",
+            "label": "Ubigeo CCPP",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "x": {
+            "fieldName": "x",
+            "label": "x",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "y": {
+            "fieldName": "y",
+            "label": "y ",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "modfinanci": {
+            "fieldName": "modfinanci",
+            "label": "Modalidad de Financiamiento",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "programa": {
+            "fieldName": "programa",
+            "label": "Programa",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "departamento": {
+            "fieldName": "departamento",
+            "label": "Departamento",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "provincia": {
+            "fieldName": "provincia",
+            "label": "Provincia",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "distrito": {
+            "fieldName": "distrito",
+            "label": "Distrito",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "ccpp": {
+            "fieldName": "ccpp",
+            "label": "Centro Poblado",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "nomproyct": {
+            "fieldName": "nomproyct",
+            "label": "Nombre Proyecto",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "unieject": {
+            "fieldName": "unieject",
+            "label": "Unidad Ejecutora",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "unidad": {
+            "fieldName": "unidad",
+            "label": "Unidad",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "costoproyc": {
+            "fieldName": "costoproyc",
+            "label": "Costo Proyecto S/.",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "proputransf": {
+            "fieldName": "proputransf",
+            "label": "Propuesta de Transferencia a 2020",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "sost2021": {
+            "fieldName": "sost2021",
+            "label": "Sostenibilidad 2021",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "empleabilidad": {
+            "fieldName": "empleabilidad",
+            "label": "Empleabilidad",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          },
+          "totinversion": {
+            "fieldName": "totinversion",
+            "label": "Total Inversion",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "pobbenefi": {
+            "fieldName": "pobbenefi",
+            "label": "Poblacion Beneficiada",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          },
+          "nconxaguassp": {
+            "fieldName": "nconxaguassp",
+            "label": "NroConexiones Nuevas Agua",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "nconubsssp": {
+            "fieldName": "nconubsssp",
+            "label": "NroConexiones Nuevas UBS",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "nconaguar": {
+            "fieldName": "nconaguar",
+            "label": "Nro Conexiones Agua Rehabilitacion",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "nconreahdes": {
+            "fieldName": "nconreahdes",
+            "label": "Nro Conexion Rehabilitacion Desague",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "metaspav": {
+            "fieldName": "metaspav",
+            "label": "Metas Pavimento (Metros Lineales)",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "metasvered": {
+            "fieldName": "metasvered",
+            "label": "Metas Vereda ( Metros Lineales)",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "tipoproyc": {
+            "fieldName": "tipoproyc",
+            "label": "Tipo Proyecto",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "dsaprob": {
+            "fieldName": "dsaprob",
+            "label": "DS que aprobo el Financiamiento",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "estadocarpeta": {
+            "fieldName": "estadocarpeta",
+            "label": "Estado Carpeta",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "substado": {
+            "fieldName": "substado",
+            "label": "Sub Estado",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "avancef": {
+            "fieldName": "avancef",
+            "label": "Avance Fisico",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "codconvocatoria": {
+            "fieldName": "codconvocatoria",
+            "label": "Codigo Convocatoria",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          },
+          "estseace": {
+            "fieldName": "estseace",
+            "label": "Estado Sease",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "tipoinver": {
+            "fieldName": "tipoinver",
+            "label": "Tipo Inversion",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "tipologia": {
+            "fieldName": "tipologia",
+            "label": "Tipologia",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "programac": {
+            "fieldName": "programac",
+            "label": "PROGRAMADO-Fecha publicación de convocatoria",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "programafbp": {
+            "fieldName": "programafbp",
+            "label": "PROGRAMADO-Fecha buena pro",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "programafbc": {
+            "fieldName": "programafbc",
+            "label": "PROGRAMADO-Fecha buena pro consentida",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "programaffc": {
+            "fieldName": "programaffc",
+            "label": "PROGRAMADO-Fecha firma de contrato",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "programafet": {
+            "fieldName": "programafet",
+            "label": "PROGRAMADO-Fecha entrega de terreno",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "programafi": {
+            "fieldName": "programafi",
+            "label": "PROGRAMADO-Fecha de inicio",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "programafte": {
+            "fieldName": "programafte",
+            "label": "PROGRAMADO-Fecha Termino estimada",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "fechpt": {
+            "fieldName": "fechpt",
+            "label": "Fecha publicación de convocatoria",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "fechapc": {
+            "fieldName": "fechapc",
+            "label": "Fecha publicación de transferencia",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "fechabp": {
+            "fieldName": "fechabp",
+            "label": "Fecha buena pro",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "fechabpc": {
+            "fieldName": "fechabpc",
+            "label": "Fecha buena pro consentida",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "fechafdc": {
+            "fieldName": "fechafdc",
+            "label": "Fecha firma de contrato",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "fechaedt": {
+            "fieldName": "fechaedt",
+            "label": "Fecha entrega de terreno",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "fechai": {
+            "fieldName": "fechai",
+            "label": "Fecha de inicio",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "fechap": {
+            "fieldName": "fechap",
+            "label": "Fecha de paralización",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "fechar": {
+            "fieldName": "fechar",
+            "label": "Fecha de reinicio",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "fechat": {
+            "fieldName": "fechat",
+            "label": "Fecha Termino Real",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "fechar_1": {
+            "fieldName": "fechar_1",
+            "label": "Fecha de Recepción",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "fechl": {
+            "fieldName": "fechl",
+            "label": "Fecha de liquidación",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "pobbenefagua": {
+            "fieldName": "pobbenefagua",
+            "label": "POBLACIÓN BENEFICIADA\n(Conexiones nuevas de agua x ratio)",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 0,
+              "digitSeparator": true
+            }
+          },
+          "viceministerio": {
+            "fieldName": "viceministerio",
+            "label": "Viceministerio",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "num1": {
+            "fieldName": "num1",
+            "label": "num1",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "num2": {
+            "fieldName": "num2",
+            "label": "num2",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "num3": {
+            "fieldName": "num3",
+            "label": "num3",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "text1": {
+            "fieldName": "text1",
+            "label": "text1",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "text2": {
+            "fieldName": "text2",
+            "label": "text2",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "shape": {
+            "fieldName": "shape",
+            "label": "shape",
+            "tooltip": "",
+            "visible": false,
+            "stringFieldOption": "textbox"
+          },
+          "num4": {
+            "fieldName": "num4",
+            "label": "num4",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "num5": {
+            "fieldName": "num5",
+            "label": "num5",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "num6": {
+            "fieldName": "num6",
+            "label": "num6",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "num7": {
+            "fieldName": "num7",
+            "label": "num7",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "num8": {
+            "fieldName": "num8",
+            "label": "num8",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "num9": {
+            "fieldName": "num9",
+            "label": "num9",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "num10": {
+            "fieldName": "num10",
+            "label": "num10",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "places": 2,
+              "digitSeparator": true
+            }
+          },
+          "text3": {
+            "fieldName": "text3",
+            "label": "text3",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "text4": {
+            "fieldName": "text4",
+            "label": "text4",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "text5": {
+            "fieldName": "text5",
+            "label": "text5",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "text6": {
+            "fieldName": "text6",
+            "label": "text6",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "text7": {
+            "fieldName": "text7",
+            "label": "text7",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "text8": {
+            "fieldName": "text8",
+            "label": "text8",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "text9": {
+            "fieldName": "text9",
+            "label": "text9",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "text10": {
+            "fieldName": "text10",
+            "label": "text10",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox"
+          },
+          "programaftep": {
+            "fieldName": "programaftep",
+            "label": "Fecha de termino luego de paralizacion",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "fechregisp": {
+            "fieldName": "fechregisp",
+            "label": "Registro de Participantes",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "formulaobs": {
+            "fieldName": "formulaobs",
+            "label": "Formulacion de Consultas, Observaciones y Absoluciones",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "integrabase": {
+            "fieldName": "integrabase",
+            "label": "Integracion de Bases",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "recepofer": {
+            "fieldName": "recepofer",
+            "label": "Recepcion y Presentacion de Ofertas",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "evaluofer": {
+            "fieldName": "evaluofer",
+            "label": "Evaluacion y Calificacion de Ofertas",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "actosfirma": {
+            "fieldName": "actosfirma",
+            "label": "Actos Posteriores a la Firma del Contrato",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          },
+          "presendoc": {
+            "fieldName": "presendoc",
+            "label": "Presentacion de Documentos para Firma de Contrato",
+            "tooltip": "",
+            "visible": true,
+            "stringFieldOption": "textbox",
+            "format": {
+              "dateFormat": "shortDateShortTime"
+            }
+          }
+        },
+        "titleHasRelatedFields": false
+      },
+      "panelImageData": "<svg overflow=\"hidden\" width=\"44\" height=\"44\" style=\"touch-action: none;\"><defs></defs><circle fill=\"rgb(255, 0, 197)\" fill-opacity=\"1\" stroke=\"rgb(153, 153, 153)\" stroke-opacity=\"0.25098039215686274\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"4\" cx=\"0\" cy=\"0\" r=\"4\" fill-rule=\"evenodd\" stroke-dasharray=\"none\" dojoGfxStrokeStyle=\"solid\" transform=\"matrix(1.00000000,0.00000000,0.00000000,1.00000000,22.00000000,22.00000000)\"></circle></svg>",
+      "imageData": "<div class=\"imageDataGFX\"><svg overflow=\"hidden\" width=\"28\" height=\"28\" style=\"touch-action: none;\"><defs></defs><circle fill=\"rgb(255, 0, 197)\" fill-opacity=\"1\" stroke=\"rgb(153, 153, 153)\" stroke-opacity=\"0.25098039215686274\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"4\" cx=\"0\" cy=\"0\" r=\"4\" fill-rule=\"evenodd\" stroke-dasharray=\"none\" dojoGfxStrokeStyle=\"solid\" transform=\"matrix(1.00000000,0.00000000,0.00000000,1.00000000,14.00000000,14.00000000)\"></circle></svg></div>"
+    }
+  ],
+  "urlDepartamento": "https://dportalgis.vivienda.gob.pe/dfdserver/rest/services/OGEI/limites_peru/MapServer/6",
+  "urlProvincia": "https://dportalgis.vivienda.gob.pe/dfdserver/rest/services/OGEI/limites_peru/MapServer/8",
+  "urlDistrito": "https://dportalgis.vivienda.gob.pe/dfdserver/rest/services/OGEI/limites_peru/MapServer/7",
+  "leyendDepartamento": "#D10202",
+  "leyendDepartamentoLineBorder": "dash",
+  "leyendDepartamentoLineSize": 3,
+  "leyendDepartamentoBackground": [
+    209,
+    2,
+    2,
+    0
+  ],
+  "leyendProvincia": "#FF0202",
+  "leyendProvinciaLineBorder": "dash",
+  "leyendProvinciaLineSize": 3,
+  "leyendProvinciaBackground": [
+    255,
+    2,
+    2,
+    0
+  ],
+  "leyendDistrito": "#FFD133",
+  "leyendDistritoLineBorder": "dash",
+  "leyendDistritoLineSize": 3,
+  "leyendDistritoBackground": [
+    255,
+    249,
+    51,
+    0
+  ],
+  "listLayer": [
+    "VMVU_VISOR_DECRETO_DE_URGENCIA_9093",
+    "VMCS_VISOR_DECRETO_DE_URGENCIA_5572"
+  ],
+  "mapID": "92c4e04525cb40f485260fa3f467f950",
+  "mainPanelText": "",
+  "refreshInterval": "",
+  "refreshEnabled": false,
+  "countEnabled": true,
+  "displayPanelIcon": false,
+  "hidePanel": false,
+  "continuousRefreshEnabled": false,
+  "expandList": true,
+  "showAllFeatures": false,
+  "upgradeFields": false
+}
